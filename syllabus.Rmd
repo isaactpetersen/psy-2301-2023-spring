@@ -46,19 +46,23 @@ I welcome you to discuss any concerns you might have about the class.
 I am also available to meet with you by appointment, although I would appreciate your making every effort to see me during office hours.
 The best way to reach me outside of class is by e-mail.
 
-# Sections {#sections}
+# Discussion Sections {#sections}
 
-Sections (all in 53 VAN)
-A01:    Monday 8:30–9:20 (NAME)
-A02:    Monday 9:30–10:20 (NAME)
-A03:	Tuesday 12:30–1:20 (NAME)
-A04:	Tuesday 3:30–4:20 (NAME)
-A05:	Wednesday 10:30–11:20 (NAME)
-A06:	Wednesday 11:30–12:20 (NAME)
-A07:	Thursday 3:30–4:20 (NAME)
-A08:	Thursday 4:30–5:20 (NAME)
-A09:	Friday 12:30–1:20 (NAME)
-A10:	Friday 1:30–2:20 (NAME)
+All discussion sections are in 53 VAN.
+The day and time of the discussion section differ by section:
+
+| Section | Day/Time                     |
+|---------|------------------------------|
+| A01:    | Monday 8:30–9:20 (NAME)      |
+| A02:    | Monday 9:30–10:20 (NAME)     |
+| A03:    | Tuesday 12:30–1:20 (NAME)    |
+| A04:    | Tuesday 3:30–4:20 (NAME)     |
+| A05:    | Wednesday 10:30–11:20 (NAME) |
+| A06:    | Wednesday 11:30–12:20 (NAME) |
+| A07:    | Thursday 3:30–4:20 (NAME)    |
+| A08:    | Thursday 4:30–5:20 (NAME)    |
+| A09:    | Friday 12:30–1:20 (NAME)     |
+| A10:    | Friday 1:30–2:20 (NAME)      |
 
 # Graduate Teaching Assistants:
 
@@ -190,9 +194,21 @@ Grades will be assigned on an absolute scale (criterion-referenced grading); cou
 No extra-credit opportunities are available for this course.
 Final grades will be assigned based on the following ranges:
 
-A+:	97–100%   	B+: 87–89	   C+: 75–79	   D+: 60–64	   F: < 50%
-A:	93–96	   	B:  83–86	   C:  70–74	   D:  55–59
-A-:	90–92	   	B-: 80–82	   C-: 65–69	   D-: 50–54
+| Grade | Percent |
+|-------|---------|
+| A+    | 97–100% | 
+| A     | 93–96   |
+| A-    | 90–92   |
+| B+    | 87–89   |
+| B     | 83–86   |
+| B-    | 80–82   |
+| C+    | 75–79   |
+| C     | 70–74   |
+| C-    | 65–69   |
+| D+    | 60–64   |
+| D     | 55–59   |
+| D-    | 50–54   |
+| F     | < 50%   |
 
 The relative importance of the different contributors to your grade is as follows:
 
@@ -204,50 +220,65 @@ The relative importance of the different contributors to your grade is as follow
 
 # Tentative Course Outline (exam dates fixed)
 
-**Section Notes:**
+## Section Notes
 
 - There will be no sections during the first week of classes.
 Sections will meet weekly beginning the second week of classes.
 - Sections will not be held during the week of examinations.
 Therefore, sections are cancelled on the following dates:  Monday 2/27 – Friday 3/3 and Monday 4/3 – Friday 4/7.
 
+## Unit One
+
 **Unit One: Fundamentals of Scientific Clinical Psychology**
-1/16	MLK Day (no class!)
-1/18	Introduction & Contemporary Clinical Psychology
-1/23	Classification and Diagnosis
-1/25	Classification and Diagnosis 
-1/30	Research Methods in Clinical Psychology
-2/1	    Research Methods in Clinical Psychology 
-2/6	    Mood Disorders 
-2/8	    Mood Disorders 
-2/13	Mood Disorders
-2/15	Anxiety Disorders 
-2/20	Anxiety Disorders
-2/22	Alcohol Use Disorders
-2/27	Examination #1 (no sections this week!)
+
+| Date | Topic                                           |
+|------|-------------------------------------------------|
+| 1/16 | MLK Day (no class!)                             |
+| 1/18 | Introduction & Contemporary Clinical Psychology |
+| 1/23 | Classification and Diagnosis                    |
+| 1/25 | Classification and Diagnosis                    |
+| 1/30 | Research Methods in Clinical Psychology         |
+| 2/1  | Research Methods in Clinical Psychology         |
+| 2/6  | Mood Disorders                                  |
+| 2/8  | Mood Disorders                                  |
+| 2/13 | Mood Disorders                                  |
+| 2/15 | Anxiety Disorders                               |
+| 2/20 | Anxiety Disorders                               |
+| 2/22 | Alcohol Use Disorders                           |
+| 2/27 | Examination #1 (no sections this week!)         |
+
+## Unit Two
 
 **Unit Two: Evidence-Based Psychological Assessment and Prediction**
-3/1	    Overview of Assessment and Prediction
-3/6	    Overview of Assessment and Prediction
-3/8	    Interviewing, Observation, and Self-Monitoring
-3/13	Spring Break (no class!)
-3/15	Spring Break (no class!)
-3/20	Interviewing, Observation, and Self-Monitoring
-3/22 	Intelligence Testing
-3/27	Intelligence Testing
-3/29	Personality Assessment
-4/3	    Personality Assessment and Wrap Up 
-4/5	    Examination #2 (no sections this week!)
+
+| Date | Topic                                          |
+|------|------------------------------------------------|
+| 3/1  | Overview of Assessment and Prediction          |
+| 3/6  | Overview of Assessment and Prediction          |
+| 3/8  | Interviewing, Observation, and Self-Monitoring |
+| 3/13 | Spring Break (no class!)                       |
+| 3/15 | Spring Break (no class!)                       |
+| 3/20 | Interviewing, Observation, and Self-Monitoring |
+| 3/22 | Intelligence Testing                           |
+| 3/27 | Intelligence Testing                           |
+| 3/29 | Personality Assessment                         |
+| 4/3  | Personality Assessment and Wrap Up             |
+| 4/5  | Examination #2 (no sections this week!)        |
+
+## Unit Three
 
 **Unit Three: Evidence-Based Psychological Intervention**
-4/10	Major Approaches to Intervention
-4/12	Major Approaches to Intervention
-4/17	Cognitive-Behavioral Therapy for Panic Disorder
-4/19	Evaluation of Interventions
-4/24	Evaluation of Interventions
-4/26	Evidence-Based Treatments
-5/1	    Dissemination of Evidence-Based Treatments
-5/3	    Intervention Controversies, Wrap-Up
+
+| Date | Topic                                           |
+|------|-------------------------------------------------|
+| 4/10 | Major Approaches to Intervention                |
+| 4/12 | Major Approaches to Intervention                |
+| 4/17 | Cognitive-Behavioral Therapy for Panic Disorder |
+| 4/19 | Evaluation of Interventions                     |
+| 4/24 | Evaluation of Interventions                     |
+| 4/26 | Evidence-Based Treatments                       |
+| 5/1  | Dissemination of Evidence-Based Treatments      |
+| 5/3  | Intervention Controversies, Wrap-Up             |
 
 # Date and Time of the Final Exam
 
@@ -311,35 +342,18 @@ For tutoring services, see Tutor Iowa: https://tutor.uiowa.edu
 Some of the topics covered in class involve problems that can be quite common among college students.
 If you feel that you or someone you know may be struggling with an academic, emotional or psychological problem, the following organizations are available for assistance:
 
-University of Iowa Academic Advising Center:
-353-5700, https://advisingcenter.uiowa.edu
-
-University Counseling Services:
-335-7294, http://www.uiowa.edu/ucs
-
-Student Health Service - Mental Health:
-335-8394, http://studenthealth.uiowa.edu/services/psychiatry
-
-University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic:
-353-6314, http://www.uihealthcare.org/Psychiatry
-
-Seashore Clinic (in the UI Department of Psychological and Brain Sciences):
-335-2467, http://psychology.uiowa.edu/resources/seashore-clinic
-
-Women's Resource and Action Center:
-335-1486, http://wrac.uiowa.edu
-
-Rape Victim Advocacy Program:
-319-335-6000 or 800-228-1625, http://www.uiowa.edu/~rvap
-
-Crisis Center of Johnson County:
-351-0140, http://www.jccrisiscenter.org/other-online-resources
-
-Mecca Services:
-351-4357, http://www.meccaservices.com
-
-Synchrony Behavioral Health Services:
-351-9072, http://www.synchronyservices.com/behhealth.html
+| Service                                                                    | Contact Info                                                    |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------|
+| University of Iowa Academic Advising Center                                | 353-5700, https://advisingcenter.uiowa.edu                      |
+| University Counseling Services                                             | 335-7294, http://www.uiowa.edu/ucs                              |
+| Student Health Service - Mental Health                                     | 335-8394, http://studenthealth.uiowa.edu/services/psychiatry    |
+| University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic  | 353-6314, http://www.uihealthcare.org/Psychiatry                |
+| Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, http://psychology.uiowa.edu/resources/seashore-clinic |
+| Women's Resource and Action Center                                         | 335-1486, http://wrac.uiowa.edu                                 |
+| Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, http://www.uiowa.edu/~rvap        |
+| Crisis Center of Johnson County                                            | 351-0140, http://www.jccrisiscenter.org/other-online-resources  |
+| Mecca Services                                                             | 351-4357, http://www.meccaservices.com                          |
+| Synchrony Behavioral Health Services                                       | 351-9072, http://www.synchronyservices.com/behhealth.html       |
 
 If you or someone you know is contemplating suicide, either call the Crisis Center at 351-0140 or call 911.
 
