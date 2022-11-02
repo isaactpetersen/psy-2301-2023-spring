@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE,
                       comment = "")
 ```
 
-Last Updated: format(Sys.Date(), "%m/%d/%Y")
+Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
 
 # Course Title
 
