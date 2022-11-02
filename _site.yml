@@ -26,7 +26,9 @@ navbar:
       href: syllabus.html
     - text: "Miscellaneous"
       menu:
-      - text: Item 1
-      - text: Item 2
+      - text: How to Study for Intro Clinical
+        href: howToStudy.html
+      - text: Mediation vs. Interaction
+        href: mediationInteraction.html
     - text: "About"
       href: about.html
