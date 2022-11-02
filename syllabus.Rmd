@@ -24,10 +24,6 @@ http://icon.uiowa.edu
 
 To access the course site, log into [Iowa Courses Online (ICON)](http://icon.uiowa.edu) https://icon.uiowa.edu/index.shtml using your Hawk ID and password.
 
-# Department
-
-Department of Psychological and Brain Sciences: https://psychology.uiowa.edu
-
 # Course Home
 
 The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, the "second-grade only" option (SGO), academic misconduct policies, and other policies and procedures.
@@ -86,7 +82,8 @@ E-mail: [Insert]
 
 # Departmental Resources
 
-Department of Psychology Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
+Department of Psychological and Brain Sciences: https://psychology.uiowa.edu\
+Department of Psychological and Brain Sciences Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
 Coordinator of Undergraduate Studies: Professor Windschitl ([paul-windschitl@uiowa.edu](mailto:paul-windschitl@uiowa.edu); 335-3681)\
 Academic Coordinator: Professor Johnson ([debra-johnson@uiowa.edu](mailto:debra-johnson@uiowa.edu); 335-0135)\
 Chair of Department: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-blumberg@uiowa.edu); 335-2424)
