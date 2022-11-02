@@ -64,7 +64,7 @@ The day and time of the discussion section differ by section:
 | A09     | Friday 12:30–1:20            | (NAME)     |
 | A10     | Friday 1:30–2:20             | (NAME)     |
 
-# Graduate Teaching Assistants:
+# Graduate Teaching Assistants
 
 [Name of TA 1]\
 Office: [Insert]\
@@ -312,14 +312,12 @@ Students are responsible for all official correspondences sent to their UI email
 
 # College of Liberal Arts and Sciences (CLAS) Course Policies
 
-[Attendance and Absences](https://clas.uiowa.edu/faculty/student-attendance-and-absences)
-
+- [Attendance and Absences](https://clas.uiowa.edu/faculty/student-attendance-and-absences)\
 University regulations require that students be allowed to make up examinations which have been missed due to illness or other unavoidable circumstances.
 See the section above on "[Missing Exams](#missingExams)" for the documentation necessary for an absence to be excused and to be eligible to take a make-up exam.
 Students with mandatory religious obligations or UI authorized activities must discuss their absences with me or the TA as soon as possible.
 Religious obligations must be communicated within the first three weeks of classes.
-
-Exam Policies
+- [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
 
 # University Policies
 
