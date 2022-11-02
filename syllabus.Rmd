@@ -20,9 +20,9 @@ Monday & Wednesday 10:30–11:20 a.m., 100 Phillips Hall (PH)
 
 # Course Website
 
-http://icon.uiowa.edu
+https://icon.uiowa.edu
 
-To access the course site, log into [Iowa Courses Online (ICON)](http://icon.uiowa.edu) https://icon.uiowa.edu/index.shtml using your Hawk ID and password.
+To access the course site, log into [Iowa Courses Online (ICON)](https://icon.uiowa.edu) https://icon.uiowa.edu/index.shtml using your Hawk ID and password.
 
 # Course Home
 
@@ -82,7 +82,7 @@ E-mail: [Insert]
 
 # Departmental Resources
 
-Department of Psychological and Brain Sciences: https://psychology.uiowa.edu\
+Department of Psychological and Brain Sciences: [https://psychology.uiowa.edu](https://psychology.uiowa.edu)\
 Department of Psychological and Brain Sciences Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
 Coordinator of Undergraduate Studies: Professor Windschitl ([paul-windschitl@uiowa.edu](mailto:paul-windschitl@uiowa.edu); 335-3681)\
 Academic Coordinator: Professor Johnson ([debra-johnson@uiowa.edu](mailto:debra-johnson@uiowa.edu); 335-0135)\
@@ -114,7 +114,7 @@ Some topics and movies will deal with sensitive or controversial issues such as 
 
 There isn't one.
 Instead, this course will include a combination of book chapters, peer-reviewed journal articles, and popular media articles.
-The source for all exam questions will be lecture, discussion, and all required readings for lectures and section, which will be provided on the course website on ICON.
+The source for all exam questions will be lecture, discussion, and all required readings for lectures and section, which will be provided on the course website on [ICON](https://icon.uiowa.edu).
 The cost of textbooks has become so high that I am not comfortable requiring one for this course when I can cover the material adequately in other ways.
 There also is no textbook available that covers the material as we do in class.
 Attendance at lectures will be critical as a result, however.
@@ -155,9 +155,9 @@ Regular attendance and good attention to lectures will improve what you get out 
 
 ## Readings & Quizzes
 
-Readings and other materials will be posted on ICON.
+Readings and other materials will be posted on [ICON](https://icon.uiowa.edu).
 You are expected to do the readings before discussion section so you come prepared to learn and to help others learn.
-You will have an online quiz on the readings to complete in ICON, on your own, <ins>before</ins> each discussion section.
+You will have an online quiz on the readings to complete in [ICON](https://icon.uiowa.edu), on your own, <ins>before</ins> each discussion section.
 The quizzes are not timed (you can spend as much time as you need on each quiz up until the deadline).
 The deadline for each quiz is 30 minutes before your scheduled discussion section starts.
 We will not accept late responses or multiple submissions.
@@ -335,20 +335,20 @@ Religious obligations must be communicated within the first three weeks of class
 For tutoring services, see Tutor Iowa: https://tutor.uiowa.edu
 
 Some of the topics covered in class involve problems that can be quite common among college students.
-If you feel that you or someone you know may be struggling with an academic, emotional or psychological problem, the following organizations are available for assistance:
+If you feel that you or someone you know may be struggling with an academic, emotional, or psychological problem, the following organizations are available for assistance:
 
-| Service                                                                    | Contact Info                                                    |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------|
-| University of Iowa Academic Advising Center                                | 353-5700, https://advisingcenter.uiowa.edu                      |
-| University Counseling Services                                             | 335-7294, http://www.uiowa.edu/ucs                              |
-| Student Health Service - Mental Health                                     | 335-8394, http://studenthealth.uiowa.edu/services/psychiatry    |
-| University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic  | 353-6314, http://www.uihealthcare.org/Psychiatry                |
-| Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, http://psychology.uiowa.edu/resources/seashore-clinic |
-| Women's Resource and Action Center                                         | 335-1486, http://wrac.uiowa.edu                                 |
-| Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, http://www.uiowa.edu/~rvap        |
-| Crisis Center of Johnson County                                            | 351-0140, http://www.jccrisiscenter.org/other-online-resources  |
-| Mecca Services                                                             | 351-4357, http://www.meccaservices.com                          |
-| Synchrony Behavioral Health Services                                       | 351-9072, http://www.synchronyservices.com/behhealth.html       |
+| Service                                                                    | Contact Info                                                     |
+|----------------------------------------------------------------------------|------------------------------------------------------------------|
+| University of Iowa Academic Advising Center                                | 353-5700, https://advisingcenter.uiowa.edu                       |
+| University Counseling Services                                             | 335-7294, https://www.uiowa.edu/ucs                              |
+| Student Health Service - Mental Health                                     | 335-8394, https://studenthealth.uiowa.edu/services/psychiatry    |
+| University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic  | 353-6314, https://www.uihealthcare.org/Psychiatry                |
+| Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, https://psychology.uiowa.edu/resources/seashore-clinic |
+| Women's Resource and Action Center                                         | 335-1486, https://wrac.uiowa.edu                                 |
+| Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, https://www.uiowa.edu/~rvap        |
+| Crisis Center of Johnson County                                            | 351-0140, https://www.jccrisiscenter.org/other-online-resources  |
+| Mecca Services                                                             | 351-4357, https://www.meccaservices.com                          |
+| Synchrony Behavioral Health Services                                       | 351-9072, https://www.synchronyservices.com/behhealth.html       |
 
 If you or someone you know is contemplating suicide, either call the Crisis Center at 351-0140 or call 911.
 
