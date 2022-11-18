@@ -1,5 +1,5 @@
 ---
-title: "Get Involved in Research with the Developmental Psychopathology Lab"
+title: "Get Involved in Research with the Developmental Psychopathology Lab!"
 ---
 
 ```{r setup, include = FALSE}
