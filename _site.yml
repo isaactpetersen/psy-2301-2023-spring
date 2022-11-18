@@ -30,5 +30,7 @@ navbar:
         href: howToStudy.html
       - text: Mediation vs. Interaction
         href: mediationInteraction.html
+      - text: Opportunity to Join My Research Lab!
+        href: devpsylab.html
     - text: "About"
       href: about.html
