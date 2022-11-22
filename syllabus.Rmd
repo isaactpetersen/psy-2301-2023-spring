@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE,
 
 Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
 
-# Course Title
+# Course Title {#title}
 
 PSY:2301 – Introduction to Clinical Psychology (Spring 2023)
 
@@ -18,18 +18,18 @@ PSY:2301 – Introduction to Clinical Psychology (Spring 2023)
 
 Monday & Wednesday 10:30–11:20 a.m., 100 Phillips Hall (PH)
 
-# Course Website
+# Course Website {#website}
 
 https://icon.uiowa.edu
 
 To access the course site, log into [Iowa Courses Online (ICON)](https://icon.uiowa.edu) using your Hawk ID and password.
 
-# Course Home
+# Course Home {#home}
 
 The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, the "second-grade only" option (SGO), academic misconduct policies, and other policies and procedures.
 Other UI colleges may have different policies.
 
-# Instructor
+# Instructor {#instructor}
 
 Professor Petersen\
 Office: 175 Psychological and Brain Sciences Building (PBSB)\
@@ -60,7 +60,7 @@ The day and time of the discussion section differ by section:
 | A09     | Friday 12:30–1:20            | (NAME)             |
 | A10     | Friday 1:30–2:20             | (NAME)             |
 
-# Graduate Teaching Assistants
+# Graduate Teaching Assistants {#TAs}
 
 The class has three graduate teaching assistants (TAs).
 
@@ -82,7 +82,7 @@ Sections: [Insert]\
 Student drop-in hours: [Insert]\
 E-mail: [Insert]
 
-# Departmental Resources
+# Departmental Resources {#deptResources}
 
 Department of Psychological and Brain Sciences: [https://psychology.uiowa.edu](https://psychology.uiowa.edu)\
 Department of Psychological and Brain Sciences Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
@@ -90,12 +90,12 @@ Coordinator of Undergraduate Studies: Professor Windschitl ([paul-windschitl@uio
 Academic Coordinator: Professor Johnson ([debra-johnson@uiowa.edu](mailto:debra-johnson@uiowa.edu); 335-0135)\
 Chair of Department: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-blumberg@uiowa.edu); 335-2424)
 
-# Prerequisites
+# Prerequisites {#prereqs}
 
 The Psychology department has a hierarchical course structure that requires students to complete certain prerequisites before taking upper-level classes.
 The prerequisite for this course is Elementary Psychology (PSY:1001).
 
-# Course Objectives
+# Course Objectives {#objectives}
 
 This course is designed to introduce you to the concepts and methods of the science of clinical psychology.
 
@@ -112,7 +112,7 @@ Taking this course should make you a more informed consumer of claims about cont
 This course is not designed to provide extensive information on the nature of psychological disorders (see Abnormal Psychology course) or to provide you with the skills to assess and treat psychological problems.
 Some topics and movies will deal with sensitive or controversial issues such as alcoholism, depression, abuse, sexual assault, and suicide.
 
-# Required Textbook
+# Required Textbook {#textbook}
 
 There isn't one.
 Instead, this course will include a combination of book chapters, peer-reviewed journal articles, and popular media articles.
@@ -120,42 +120,52 @@ The source for all exam questions will be lecture, discussion, and all required 
 The cost of textbooks has become so high that I am not comfortable requiring one for this course when I can cover the material adequately in other ways.
 There also is no textbook available that covers the material as we do in class.
 Attendance at lectures will be critical as a result, however.
-If you miss a lecture or section, you will need to get notes from a peer, because we do not provide notes or re-present missed lecture or section material in meetings.
+If you miss a lecture or section, you will need to watch the lecture recording or get notes from a peer, because we do not provide notes or re-present missed lecture or section material in meetings.
 Once you have the notes from a peer, review them carefully on your own, then get into office hours with me or one of the TAs to address any specific questions that you have as soon as possible.
 Feel free to come to office hours with me or with one of the TAs to discuss how best to study for a course without a textbook.
 
-# Academic Honesty and Misconduct
+# Academic Honesty and Misconduct {#academicHonesty}
 
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 
-# Course Requirements and Policies
+# Course Requirements and Policies {#requirements}
 
-## Lecture/Discussion
+## Lecture {#lecture}
 
 We will meet twice weekly for lectures, at the time and location described [above](#lectureTime). 
 My powerpoint presentations for each lecture will be posted no later than noon the day before a lecture.
 I strongly recommend bringing these to class to take notes.
-In addition, you are scheduled for weekly discussion sections.
+
 You should feel free to ask questions during lecture, although some may need to be deferred given the size of the class and the need to complete coverage of specific material during lecture.
-<ins>Questions are always welcome</ins> during office hours, during section, and via e-mail.
+<ins>Questions are always welcome</ins> during office hours, during discussion section, and via e-mail.
 Please bear in mind that extensive or complex questions may not be addressable over e-mail.
 
-## Attendance & Participation
+### Lecture Recordings {#recordings}
+
+My intention is to record lectures so that you may review them.
+Recorded lectures will be available on [ICON](https://icon.uiowa.edu) up to 48 hours after class (for Wednesday lectures) or until the Wednesday class period (for Monday lectures).
+However, <ins>please do not count on recordings being available</ins>, in case I accidentally forget to initiate the recording or there is a technical malfunction.
+
+## Discussion Section {#discussionSection}
 
 In addition to lecture, you also have a weekly discussion section (the day and time differs based on the section, see [above](#sections)).
-Section attendance and participation are mandatory and will be worth 8% of your final grade.
+
+## Attendance and Participation {#attendanceParticipation}
+
+Discussion section attendance and participation are mandatory and will be worth 8% of your final grade.
 You must attend section, pay attention, participate verbally, <ins>and</ins> complete the required activities during section to receive any attendance and participation points, as indicated by your <ins>submission of the required written responses during section at the end of the section session</ins>.
 There will be 12 discussions during the semester, and you will receive one point for submitting an appropriate written response at the end of each section, up to a <ins>maximum</ins> of 10 points (i.e., you will not receive extra credit for submitting appropriate responses for all 12 discussions).
 Thus, you will not be penalized for missing two sections, although you still will be responsible for the covered material on exams, etc., and I urge you strongly to attend all sections.
 This strategy is designed to facilitate my management of the excuses associated with an occasional missed section (i.e., no more than two during the semester).
 If you miss a section, you can attend a different section during the same week <ins>only with the permission of the instructor of the different section</ins>, <ins>but you will not receive attendance and participation points for doing so</ins> (unless the absence is excused by the instructor).
 In other words, make sure you attend and participate in at least 10 of your discussion sections this semester!!
-Lecture attendance is not mandatory, but most material presented in lecture is not included in the readings.
+
+Lecture attendance is not mandatory, but it is strongly encouraged; most material presented in lecture is not included in the readings, and lecture recordings may not always be available.
 <ins>You are responsible for and will be tested on all material presented in lectures, discussion sections, and in the required readings</ins>.
 Regular attendance and good attention to lectures will improve what you get out of this class and is likely to improve your performance on the exams.
 
-## Readings & Quizzes
+## Readings & Quizzes {#readingQuizzes}
 
 Readings and other materials will be posted on [ICON](https://icon.uiowa.edu).
 You are expected to do the readings before discussion section so you come prepared to learn and to help others learn.
@@ -171,7 +181,7 @@ Past experience has shown that in order to do well in this class, you should rea
 There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
 Note that lecture and section will <ins>not</ins> cover all relevant material for the course; you will be expected to know the <ins>required</ins> readings for exams.
 
-## Examinations
+## Examinations {#exams}
 
 There will be 3 exams.
 The exams will include multiple-choice questions.
@@ -186,7 +196,7 @@ If you know that you must be away at the time of an exam for one of these reason
 At the time of the make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness at the time of an exam; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by the instructor.
 <ins>To be eligible for a make-up exam, the instructor or TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</ins>.
 
-# Grading
+# Grading {#grading}
 
 Final grades will be assigned at the end of semester on the basis of your total percentage of points earned on exams, quizzes, and section participation, as detailed below.
 Grades will be assigned on an absolute scale (criterion-referenced grading); course grades will not be curved.
@@ -217,7 +227,7 @@ The relative importance of the different contributors to your grade is as follow
  - 8% 	Discussion Attendance/Participation
  - 8% 	Reading Quizzes
 
-# Tentative Course Outline (exam dates fixed)
+# Tentative Course Outline (exam dates fixed) {#outline}
 
 ## Section Notes
 
@@ -226,7 +236,7 @@ Sections will meet weekly beginning the second week of classes.
 - Sections will not be held during the week of examinations.
 Therefore, sections are cancelled on the following dates:  Monday 2/27 – Friday 3/3 and Monday 4/3 – Friday 4/7.
 
-## Unit One
+## Unit One {#unit1}
 
 **Unit One: Fundamentals of Scientific Clinical Psychology**
 
@@ -246,7 +256,7 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 | 2/22 | Alcohol Use Disorders                           |
 | 2/27 | Examination #1 (no sections this week!)         |
 
-## Unit Two
+## Unit Two {#unit2}
 
 **Unit Two: Evidence-Based Psychological Assessment and Prediction**
 
@@ -264,7 +274,7 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 | 4/3  | Personality Assessment and Wrap Up             |
 | 4/5  | Examination #2 (no sections this week!)        |
 
-## Unit Three
+## Unit Three {#unit3}
 
 **Unit Three: Evidence-Based Psychological Intervention**
 
@@ -279,14 +289,14 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 | 5/1  | Dissemination of Evidence-Based Treatments      |
 | 5/3  | Intervention Controversies, Wrap-Up             |
 
-# Date and Time of the Final Exam
+# Date and Time of the Final Exam {#finalExam}
 
 The final examination date and time will be announced by the Registrar generally by the fifth week of classes and it will be announced on the course ICON site once it is known.
 <ins>Do not plan your end of the semester travel plans until the final exam schedule is made public.
 It is your responsibility to know the date, time, and place of the final exam.</ins>
 According to Registrar's final exam policy, students <ins>have a maximum of two weeks after the announced final exam schedule</ins> to request a change if an exam conflict exists or if a student has more than two exams in one day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
-# Drop Deadline for this Course
+# Drop Deadline for this Course {#dropDeadline}
 
 You may drop an individual course before the deadline; after this deadline you will need collegiate approval.
 You can look up the [drop deadline for this course](https://registrar.uiowa.edu/course-deadlines) here.
@@ -295,7 +305,7 @@ The mark of "W" is a neutral mark that does not affect your GPA.
 Directions for adding or dropping a course and other registration changes can be found on the [Registrar's website](https://registrar.uiowa.edu/change-registration-myui).
 Students can find policies on dropping and withdrawing [here](https://clas.uiowa.edu/students/students-academic-policies/registration-policies#dropping).
 
-# Feedback about the Course
+# Feedback about the Course {#feedback}
 
 I welcome feedback at any point during the class.
 If you have comments on the class or my teaching, please feel free to meet with me during office hours.
@@ -305,11 +315,11 @@ If you have comments on the class or my teaching, please feel free to meet with 
 Students with a complaint about a grade or a related matter should first discuss the situation with the instructor, and finally with the Director or Chair of the school, department, or program offering the course.
 Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/students/handbook/student-rights-responsibilities#rights) for support when the matter is not resolved at the previous level.
 
-# Communication: UI Email
+# Communication: UI Email {#email}
 
 Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
 
-# College of Liberal Arts and Sciences (CLAS) Course Policies
+# College of Liberal Arts and Sciences (CLAS) Course Policies {#clasPolicies}
 
 - [Attendance and Absences](https://clas.uiowa.edu/faculty/student-attendance-and-absences)\
 University regulations require that students be allowed to make up examinations which have been missed due to illness or other unavoidable circumstances.
@@ -318,7 +328,7 @@ Students with mandatory religious obligations or UI authorized activities must d
 Religious obligations must be communicated within the first three weeks of classes.
 - [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
 
-# University Policies
+# University Policies {#UIowaPolicies}
 
 - [Accommodations for Students with Disabilities](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#accommodations-for-students-with-disabilities)
 - [Basic Needs and Support for Students](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#basic-needs-and-support-for-students)
@@ -332,7 +342,7 @@ Religious obligations must be communicated within the first three weeks of class
 - [Sexual Harassment/Misconduct and Supportive Measures](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sexual-harassment--sexual-misconduct-and-supportive-measures)
 - [Sharing of Class Recordings](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sharing-of-class-recordings-if-appropriate)
 
-# Resources for Help
+# Resources for Help {#resources}
 
 For tutoring services, see Tutor Iowa: https://tutor.uiowa.edu
 
@@ -354,7 +364,7 @@ If you feel that you or someone you know may be struggling with an academic, emo
 
 If you or someone you know is contemplating suicide, either call the Crisis Center at 351-0140 or call 911.
 
-# Disclaimer
+# Disclaimer {#disclaimer}
 
 This syllabus is subject to change.
 Any changes will be discussed in class, via email, and/or on ICON.
