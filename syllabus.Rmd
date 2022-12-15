@@ -49,38 +49,38 @@ The day and time of the discussion section differ by section:
 
 | Section | Day/Time                     | Teaching Assistant |
 |---------|------------------------------|--------------------|
-| A01     | Monday 8:30–9:20             | (NAME)             |
-| A02     | Monday 9:30–10:20            | (NAME)             |
-| A03     | Tuesday 12:30–1:20           | (NAME)             |
-| A04     | Tuesday 3:30–4:20            | (NAME)             |
-| A05     | Wednesday 10:30–11:20        | (NAME)             |
-| A06     | Wednesday 11:30–12:20        | (NAME)             |
-| A07     | Thursday 3:30–4:20           | (NAME)             |
-| A08     | Thursday 4:30–5:20           | (NAME)             |
-| A09     | Friday 12:30–1:20            | (NAME)             |
-| A10     | Friday 1:30–2:20             | (NAME)             |
+| A01     | Monday 8:30–9:20             | Olivia Adamson     |
+| A02     | Monday 9:30–10:20            | Olivia Adamson     |
+| A03     | Tuesday 12:30–1:20           | James Lopez        |
+| A04     | Tuesday 3:30–4:20            | Gonzalo Quinones   |
+| A05     | Wednesday 10:30–11:20        | James Lopez        |
+| A06     | Wednesday 11:30–12:20        | Gonzalo Quinones   |
+| A07     | Thursday 3:30–4:20           | Gonzalo Quinones   |
+| A08     | Thursday 4:30–5:20           | Olivia Adamson     |
+| A09     | Friday 12:30–1:20            | Olivia Adamson     |
+| A10     | Friday 1:30–2:20             | Gonzalo Quinones   |
 
 # Graduate Teaching Assistants {#TAs}
 
 The class has three graduate teaching assistants (TAs).
 
-[Name of TA 1]\
+Gonzalo Quinones\
 Office: [Insert]\
-Sections: [Insert]\
+Sections: A04, A06, A07, A10\
 Student drop-in hours: [Insert]\
-E-mail: [Insert]
+E-mail: gonzalo-quinones@uiowa.edu
 
-[Name of TA 2]\
+Olivia Adamson\
 Office: [Insert]\
-Sections: [Insert]\
+Sections: A01, A02, A08, A09\
 Student drop-in hours: [Insert]\
-E-mail: [Insert]
+E-mail: olivia-adamson@uiowa.edu
 
-[Name of TA 3]\
+James Lopez\
 Office: [Insert]\
-Sections: [Insert]\
+Sections: A03, A05\
 Student drop-in hours: [Insert]\
-E-mail: [Insert]
+E-mail: james-lopez@uiowa.edu
 
 # Departmental Resources {#deptResources}
 
