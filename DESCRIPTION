@@ -5,4 +5,5 @@ Imports:
   rmarkdown,
   blogdown,
   remotes
-
+Remotes:
+  hadley/emo

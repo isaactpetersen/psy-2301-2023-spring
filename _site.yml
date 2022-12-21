@@ -28,6 +28,8 @@ navbar:
       menu:
       - text: How to Study for Intro Clinical
         href: howToStudy.html
+      - text: I Think I Might Need Some Help...
+        href: help.html
       - text: Mediation vs. Interaction
         href: mediationInteraction.html
       - text: Opportunity to Join My Research Lab!

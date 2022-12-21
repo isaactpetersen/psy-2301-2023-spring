@@ -154,6 +154,7 @@ Thus, we urge you to complete the Study Questions, ask yourself questions, and t
 Every one of us—including your TAs and Profs!—have questions and get confused about course material sometimes.
 When this happens to you (and it will!), remember that you have a lot of options: you can ask questions inside or outside of class, you can come to office hours with us, and you can email us.
 We know that talking with us can be challenging, but we encourage you to get outside your comfort zone and give it a try!
+`r emo::ji("smiling_face_with_smiling_eyes")`
 We all love working with students, and we all want you to succeed in our class.
 Ask for help when you need it!
 
