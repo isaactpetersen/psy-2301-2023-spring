@@ -17,7 +17,7 @@ We have created this document to describe evidence-based strategies for learning
 
 # Attend and Participate in Every Class Session
 
-- <ins>Attend every lecture and class discussion section.</ins>
+- <u>Attend every lecture and class discussion section.</u>
 Attendance is important for learning the material.
 Get notes if you miss a class.
 - <ins>Take good notes</ins> in every lecture and discussion section, and while doing the readings.
@@ -63,7 +63,7 @@ Examples will help place the different concepts into context.
 Think about the different examples given in class and use them to learn how each concept can be applied.
 This should give you a better understanding of what might otherwise be an abstract concept.
 
-<ins>Focus on understanding the concepts</ins>, not just memorizing the details.
+<u>Focus on understanding the concepts</u>, not just memorizing the details.
 Students are often taught to memorize facts to be successful in class.
 Although memorizing some facts will be helpful in this class, we really want you to understand how the facts are *applied* in clinical psychology.
 Thus, many test questions will require that you both know the facts and understand more abstract concepts.
@@ -83,7 +83,7 @@ This helps you figure out what you do and don't understand, which puts you in a 
 You will have a lot to study before you know it.
 Try to keep up with the material and ask questions if you have them.
 
-<ins>Study for shorter but more frequent periods.</ins>
+<u>Study for shorter but more frequent periods.</u>
 One of the **BEST** things you can do to learn the course material is <ins>**study for a shorter amount of time, on multiple days a week, and for every week of the semester**</ins>.
 Research clearly indicates that this is a much more effective approach than cramming your studying into two or three longer study sessions right before the exam.
 In a nutshell, the research on studying tells us that humans best remember information when they practice recalling that information across numerous study sessions.
