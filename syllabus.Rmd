@@ -95,7 +95,7 @@ Chair of Department: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-b
 The Psychology department has a hierarchical course structure that requires students to complete certain prerequisites before taking upper-level classes.
 The prerequisite for this course is Elementary Psychology (PSY:1001).
 
-# Course Objectives {#objectives}
+# Description of Course {#description}
 
 This course is designed to introduce you to the concepts and methods of the science of clinical psychology.
 
@@ -108,9 +108,12 @@ It has three areas of emphasis:
 This course will provide an introduction to (a) major theoretical models and research methods in scientific clinical psychology; (b) several psychological problems that are particularly relevant to college students (depression, anxiety, and alcohol abuse); (c) the general principles underlying the construction, administration, and interpretation of evidence-based clinical assessments; and (d) empirically supported approaches to psychological intervention.
 *You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
 
-Taking this course should make you a more informed consumer of claims about contemporary clinical psychology and may assist in your evaluation of clinical psychology as a potential career goal.
+Note: Some topics and movies will deal with sensitive or controversial issues such alcohol problems, depression, anxiety, abuse, sexual assault, eating disorders, and suicide.
+
+# Learning Objectives {#objectives}
+
+Taking this course should make you a more informed consumer of claims about contemporary clinical psychology and may assist in your evaluation of clinical psychology or other related potential career goals.
 This course is not designed to provide extensive information on the nature of psychological disorders (see Abnormal Psychology course) or to provide you with the skills to assess and treat psychological problems.
-Some topics and movies will deal with sensitive or controversial issues such as alcoholism, depression, abuse, sexual assault, and suicide.
 
 # Required Textbook {#textbook}
 
@@ -128,6 +131,8 @@ Feel free to come to office hours with me or with one of the TAs to discuss how 
 
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
+Please note that collaboration with other classmates on quizzes and during exams is not permitted.
+However, I do encourage you to collaborate with classmates to *prepare* for exams (e.g., informal study groups).
 
 # Course Requirements and Policies {#requirements}
 
@@ -137,8 +142,8 @@ We will meet twice weekly for lectures, at the time and location described [abov
 My powerpoint presentations for each lecture will be posted no later than noon the day before a lecture.
 I strongly recommend bringing these to class to take notes.
 
-You should feel free to ask questions during lecture, although some may need to be deferred given the size of the class and the need to complete coverage of specific material during lecture.
-<ins>Questions are always welcome</ins> during office hours, during discussion section, and via e-mail.
+You should feel free to ask questions during lecture, although some questions may need to be deferred given the size of the class and the need to complete coverage of specific material during lecture.
+<ins>Questions and further discussion of class material are always welcome</ins> during office hours, during discussion section, and via e-mail.
 Please bear in mind that extensive or complex questions may not be addressable over e-mail.
 
 ### Lecture Recordings {#recordings}
@@ -149,7 +154,8 @@ However, <ins>please do not count on recordings being available</ins>, in case I
 
 ## Discussion Section {#discussionSection}
 
-In addition to lecture, you also have a weekly discussion section (the day and time differs based on the section, see [above](#sections)).
+In addition to lecture, you also have a weekly discussion section, except during exam weeks.
+The day and time of the weekly discussion section differs based on the section, see [above](#sections)).
 
 ## Attendance and Participation {#attendanceParticipation}
 
@@ -177,6 +183,7 @@ Your lowest quiz score will be dropped.
 We will not accept excused absences for quizzes because (a) you have a week to complete the quiz (and can submit it at any point during that week), and (b) we drop your lowest quiz score.
 Each quiz will be weighted the same in the final grade.
 Quiz answers will be viewable at the end of the week (i.e., after the last discussion section has taken their quiz).
+
 Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <ins>each week</ins>.
 There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
 Note that lecture and section will <ins>not</ins> cover all relevant material for the course; you will be expected to know the <ins>required</ins> readings for exams.
@@ -187,14 +194,16 @@ There will be 3 exams.
 The exams will include multiple-choice questions.
 Each exam will emphasize information presented for the third of the class that precedes it.
 However, some integration of information across sections will be required for questions on the second and third exams.
-Exam questions can come from any of the following sources: lectures, sections, or required readings.
+Exam questions can come from <ins>any of the following sources: lectures, sections, or required readings </ins>.
+For suggested study tips for this class, see [here](howToStudy.html).
 
 ### Missing Exams {#missingExams}
 
 Students are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances.
-If you know that you must be away at the time of an exam for one of these reasons, the instructor or TA must be contacted in advance to schedule a make-up exam.
-At the time of the make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness at the time of an exam; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by the instructor.
-<ins>To be eligible for a make-up exam, the instructor or TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</ins>.
+Note: the format of the make-up exam may differ from the original exam.
+If you know that you must be away at the time of an exam for one of these reasons, Dr. Petersen or the TA must be contacted in advance whenever possible to schedule a make-up exam.
+At the time of the make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness at the time of an exam; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Dr. Petersen.
+<ins>In sum, to be eligible for a make-up exam, Dr. Petersen or the TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</ins>.
 
 # Grading {#grading}
 
@@ -319,6 +328,13 @@ Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/stu
 
 Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
 
+# Health and Safety
+
+The University of Iowa strongly encourages students, faculty, and staff to be vaccinated against COVID-19.
+For information about COVID-19 vaccines on campus, please see https://coronavirus.uiowa.edu.
+If you are feeling sick, test positive for COVID-19, or may have been exposed to COVID-19, please refer to the campus guidance for the appropriate action (https://coronavirus.uiowa.edu/returning-campus/showing-symptoms). Regardless of your vaccination status, if you have symptoms consistent with COVID-19, please stay home and follow the appropriate isolation/quarantine guidance.
+For up-to-date information throughout the semester, please refer to https://coronavirus.uiowa.edu.
+
 # College of Liberal Arts and Sciences (CLAS) Course Policies {#clasPolicies}
 
 - [Attendance and Absences](https://clas.uiowa.edu/faculty/student-attendance-and-absences)\
@@ -344,7 +360,10 @@ Religious obligations must be communicated within the first three weeks of class
 
 # Resources for Help {#resources}
 
-For tutoring services, see Tutor Iowa: https://tutor.uiowa.edu
+- Drop-in study groups and one-on-one tutoring: Undergraduate TA office hours
+- Formal tutoring: Tutor Iowa: https://tutor.uiowa.edu
+- Academic accommodations: https://sds.studentlife.uiowa.edu
+- Student care and assistance: https://basicneeds.uiowa.edu/resources/student-care-and-assistance
 
 Some of the topics covered in class involve problems that can be quite common among college students.
 If you feel that you or someone you know may be struggling with an academic, emotional, or psychological problem, the following organizations are available for assistance:
@@ -358,11 +377,11 @@ If you feel that you or someone you know may be struggling with an academic, emo
 | Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, https://psychology.uiowa.edu/resources/seashore-clinic |
 | Women's Resource and Action Center                                         | 335-1486, https://wrac.uiowa.edu                                 |
 | Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, https://www.uiowa.edu/~rvap        |
-| Crisis Center of Johnson County                                            | 351-0140, https://www.jccrisiscenter.org/other-online-resources  |
-| Mecca Services                                                             | 351-4357, https://www.meccaservices.com                          |
-| Synchrony Behavioral Health Services                                       | 351-9072, https://www.synchronyservices.com/behhealth.html       |
+| Office of Sexual Misconduct                                                | 319-335-6200, https://osmrc.uiowa.edu                            |
+| CommUnity                                                                  | 855-325-4296, https://builtbycommunity.org/crisis                |
+| Community & Family Resources                                               | 351-4357, https://www.cfrhelps.org/                              |
 
-If you or someone you know is contemplating suicide, either call the Crisis Center at 351-0140 or call 911.
+<ins>If you or someone you know is contemplating suicide</ins>, either call the Suicide and Crisis Lifeline at 988 or call 911.
 
 # Disclaimer {#disclaimer}
 
