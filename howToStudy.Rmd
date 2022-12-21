@@ -96,7 +96,7 @@ We suggest scheduling these study sessions in your calendar to occur every week 
 Here is an example of what your study session schedule might look like:
 
 | Monday    | Tuesday | Wednesday  | Thursday  | Friday |
-|-----------|---------|------------|-----------|--------|
+|:----------|:--------|:-----------|:----------|:-------|
 | 8:00–9:30 |         | 11:30–1:00 | 5:30–7:00 |        |
 
 Now that you have scheduled regular study sessions, what is the most effective way to design your study strategy within each session?
