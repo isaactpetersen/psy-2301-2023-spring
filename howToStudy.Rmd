@@ -11,8 +11,6 @@ knitr::opts_chunk$set(echo = TRUE,
 In this course, our goal is for you to learn about and understand the science of clinical psychology, its application to the real world, and the limitations and strengths of the clinically relevant research and claims you encounter.
 We have created this document to describe evidence-based strategies for learning and applying the course material, as well as preparing for exams.
 
-To succeed in this class, it is important that you think deeply about and learn to apply the knowledge from lecture and section, rather than simply memorizing it.
-
 # Attend and Participate in Every Class Session
 
 - <ins>Attend every lecture and class discussion section.</ins>
@@ -65,6 +63,7 @@ This should give you a better understanding of what might otherwise be an abstra
 Students are often taught to memorize facts to be successful in class.
 Although memorizing some facts will be helpful in this class, we really want you to understand how the facts are *applied* in clinical psychology.
 Thus, many test questions will require that you both know the facts and understand more abstract concepts.
+To succeed in this class, it is important that you think deeply about and learn to apply the knowledge from lecture and section, rather than simply memorizing it.
 You will do best on exams if you go beyond memorizing and critically think about the ideas we present in lecture and discussion sections.
 In addition to understanding the concepts, you should understand why the concepts are important and how to apply them.
 Compare concepts discussed in class and think about how they are similar or different.
