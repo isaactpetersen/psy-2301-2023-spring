@@ -8,6 +8,10 @@ knitr::opts_chunk$set(echo = TRUE,
                       comment = "")
 ```
 
+```{r setup, include = FALSE}
+library("emo")
+```
+
 In this course, our goal is for you to learn about and understand the science of clinical psychology, its application to the real world, and the limitations and strengths of the clinically relevant research and claims you encounter.
 We have created this document to describe evidence-based strategies for learning and applying the course material, as well as preparing for exams.
 
