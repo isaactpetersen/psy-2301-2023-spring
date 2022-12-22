@@ -8,5 +8,5 @@ Imports:
   emo,
   petersenlab
 Remotes:
-  git::https://research-git.uiowa.edu/PetersenLab/petersenlab.git,
+  git::git@research-git.uiowa.edu:PetersenLab/petersenlab@master,
   hadley/emo
