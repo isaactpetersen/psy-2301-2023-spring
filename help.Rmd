@@ -13,11 +13,11 @@ knitr::opts_chunk$set(echo = TRUE,
 Everyone needs help sometimes—your classmates, your TAs, and your professor. And YOU.
 We know that it can be anxiety-provoking to recognize that you need help and to ask for it.
 And we also know that getting the help we need can make a big difference, both inside and outside the classroom.
-So, we encourage you to reach out <ins>quickly</ins> for the help and support that you need!
+So, we encourage you to reach out <u>quickly</u> for the help and support that you need!
 
 # I need help with my mental or physical health...
 
-- <ins>If you or someone you know is contemplating suicide</ins>, either call the Suicide and Crisis Lifeline at 988, or call 911.
+- <u>If you or someone you know is contemplating suicide</u>, either call the Suicide and Crisis Lifeline at 988, or call 911.
 - University Counseling Service: https://counseling.uiowa.edu/, or 319-335-7294
 - Student Health: https://studentlife.uiowa.edu/departments/student-health/, or 319-335-8394
 - Student Wellness: https://studentwellness.uiowa.edu/, or 319-335-8394

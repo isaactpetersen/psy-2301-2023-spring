@@ -143,14 +143,14 @@ My powerpoint presentations for each lecture will be posted no later than noon t
 I strongly recommend bringing these to class to take notes.
 
 You should feel free to ask questions during lecture, although some questions may need to be deferred given the size of the class and the need to complete coverage of specific material during lecture.
-<ins>Questions and further discussion of class material are always welcome</ins> during office hours, during discussion section, and via e-mail.
+<u>Questions and further discussion of class material are always welcome</u> during office hours, during discussion section, and via e-mail.
 Please bear in mind that extensive or complex questions may not be addressable over e-mail.
 
 ### Lecture Recordings {#recordings}
 
 My intention is to record lectures so that you may review them.
 Recorded lectures will be available on [ICON](https://icon.uiowa.edu) up to 48 hours after class (for Wednesday lectures) or until the Wednesday class period (for Monday lectures).
-However, <ins>please do not count on recordings being available</ins>, in case I accidentally forget to initiate the recording or there is a technical malfunction.
+However, <u>please do not count on recordings being available</u>, in case I accidentally forget to initiate the recording or there is a technical malfunction.
 
 ## Discussion Section {#discussionSection}
 
@@ -160,22 +160,22 @@ The day and time of the weekly discussion section differs based on the section, 
 ## Attendance and Participation {#attendanceParticipation}
 
 Discussion section attendance and participation are mandatory and will be worth 8% of your final grade.
-You must attend section, pay attention, participate verbally, <ins>and</ins> complete the required activities during section to receive any attendance and participation points, as indicated by your <ins>submission of the required written responses during section at the end of the section session</ins>.
-There will be 12 discussions during the semester, and you will receive one point for submitting an appropriate written response at the end of each section, up to a <ins>maximum</ins> of 10 points (i.e., you will not receive extra credit for submitting appropriate responses for all 12 discussions).
+You must attend section, pay attention, participate verbally, <u>and</u> complete the required activities during section to receive any attendance and participation points, as indicated by your <u>submission of the required written responses during section at the end of the section session</u>.
+There will be 12 discussions during the semester, and you will receive one point for submitting an appropriate written response at the end of each section, up to a <u>maximum</u> of 10 points (i.e., you will not receive extra credit for submitting appropriate responses for all 12 discussions).
 Thus, you will not be penalized for missing two sections, although you still will be responsible for the covered material on exams, etc., and I urge you strongly to attend all sections.
 This strategy is designed to facilitate my management of the excuses associated with an occasional missed section (i.e., no more than two during the semester).
-If you miss a section, you can attend a different section during the same week <ins>only with the permission of the instructor of the different section</ins>, <ins>but you will not receive attendance and participation points for doing so</ins> (unless the absence is excused by the instructor).
+If you miss a section, you can attend a different section during the same week <u>only with the permission of the instructor of the different section</u>, <u>but you will not receive attendance and participation points for doing so</u> (unless the absence is excused by the instructor).
 In other words, make sure you attend and participate in at least 10 of your discussion sections this semester!!
 
 Lecture attendance is not mandatory, but it is strongly encouraged; most material presented in lecture is not included in the readings, and lecture recordings may not always be available.
-<ins>You are responsible for and will be tested on all material presented in lectures, discussion sections, and in the required readings</ins>.
+<u>You are responsible for and will be tested on all material presented in lectures, discussion sections, and in the required readings</u>.
 Regular attendance and good attention to lectures will improve what you get out of this class and is likely to improve your performance on the exams.
 
 ## Readings & Quizzes {#readingQuizzes}
 
 Readings and other materials will be posted on [ICON](https://icon.uiowa.edu).
 You are expected to do the readings before discussion section so you come prepared to learn and to help others learn.
-You will have an online quiz on the readings to complete in [ICON](https://icon.uiowa.edu), on your own, <ins>before</ins> each discussion section.
+You will have an online quiz on the readings to complete in [ICON](https://icon.uiowa.edu), on your own, <u>before</u> each discussion section.
 The quizzes are not timed (you can spend as much time as you need on each quiz up until the deadline).
 The deadline for each quiz is 30 minutes before your scheduled discussion section starts.
 We will not accept late responses or multiple submissions.
@@ -184,9 +184,9 @@ We will not accept excused absences for quizzes because (a) you have a week to c
 Each quiz will be weighted the same in the final grade.
 Quiz answers will be viewable at the end of the week (i.e., after the last discussion section has taken their quiz).
 
-Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <ins>each week</ins>.
+Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <u>each week</u>.
 There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
-Note that lecture and section will <ins>not</ins> cover all relevant material for the course; you will be expected to know the <ins>required</ins> readings for exams.
+Note that lecture and section will <u>not</u> cover all relevant material for the course; you will be expected to know the <u>required</u> readings for exams.
 
 ## Examinations {#exams}
 
@@ -194,7 +194,7 @@ There will be 3 exams.
 The exams will include multiple-choice questions.
 Each exam will emphasize information presented for the third of the class that precedes it.
 However, some integration of information across sections will be required for questions on the second and third exams.
-Exam questions can come from <ins>any of the following sources: lectures, sections, or required readings </ins>.
+Exam questions can come from <u>any of the following sources: lectures, sections, or required readings </u>.
 For suggested study tips for this class, see [here](howToStudy.html).
 
 ### Missing Exams {#missingExams}
@@ -203,7 +203,7 @@ Students are allowed to make up exams that have been missed due to illness, mand
 Note: the format of the make-up exam may differ from the original exam.
 If you know that you must be away at the time of an exam for one of these reasons, Dr. Petersen or the TA must be contacted in advance whenever possible to schedule a make-up exam.
 At the time of the make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness at the time of an exam; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Dr. Petersen.
-<ins>In sum, to be eligible for a make-up exam, Dr. Petersen or the TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</ins>.
+<u>In sum, to be eligible for a make-up exam, Dr. Petersen or the TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</u>.
 
 # Grading {#grading}
 
@@ -301,9 +301,9 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 # Date and Time of the Final Exam {#finalExam}
 
 The final examination date and time will be announced by the Registrar generally by the fifth week of classes and it will be announced on the course ICON site once it is known.
-<ins>Do not plan your end of the semester travel plans until the final exam schedule is made public.
-It is your responsibility to know the date, time, and place of the final exam.</ins>
-According to Registrar's final exam policy, students <ins>have a maximum of two weeks after the announced final exam schedule</ins> to request a change if an exam conflict exists or if a student has more than two exams in one day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
+<u>Do not plan your end of the semester travel plans until the final exam schedule is made public.
+It is your responsibility to know the date, time, and place of the final exam.</u>
+According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams in one day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
 # Drop Deadline for this Course {#dropDeadline}
 
@@ -381,7 +381,7 @@ If you feel that you or someone you know may be struggling with an academic, emo
 | CommUnity                                                                  | 855-325-4296, https://builtbycommunity.org/crisis                |
 | Community & Family Resources                                               | 351-4357, https://www.cfrhelps.org/                              |
 
-<ins>If you or someone you know is contemplating suicide</ins>, either call the Suicide and Crisis Lifeline at 988, or call 911.
+<u>If you or someone you know is contemplating suicide</u>, either call the Suicide and Crisis Lifeline at 988, or call 911.
 
 # Disclaimer {#disclaimer}
 
