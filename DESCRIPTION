@@ -5,8 +5,6 @@ Imports:
   rmarkdown,
   blogdown,
   remotes,
-  emo,
-  petersenlab
+  emo
 Remotes:
-  git::git@research-git.uiowa.edu:PetersenLab/petersenlab.git,
   hadley/emo
