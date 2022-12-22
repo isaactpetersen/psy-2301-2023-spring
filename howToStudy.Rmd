@@ -39,7 +39,6 @@ We know that it can be anxiety-provoking to talk with your TAs or course instruc
 # Do All of the Required Readings and Assignments
 
 Completion of the required readings and assignments is an important prerequisite for learning the material.
-Have the reading quiz open while reading the article, so you make sure you take away the key points of the reading.
 
 # Pay Particular Attention to What is Most Important
 
@@ -58,6 +57,7 @@ Similarly, after reading the assignment for discussion sections or lecture, turn
 What about this is relevant to lecture and section? What are the main things to learn?"
 If you read a research article, ask yourself "What are the main findings?
 What are the strengths and limitations of the study?"
+**Have the reading quiz open while reading the article**, to help guide your reading so you make sure you take away the key points of the reading.
 
 <u>Pay attention to the examples Dr. Petersen and the TAs use in lecture and section.</u>
 Examples will help place the different concepts into context.
