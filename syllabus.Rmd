@@ -48,7 +48,7 @@ All discussion sections are in 53 VAN.
 The day and time of the discussion section differ by section:
 
 | Section | Day/Time                     | Teaching Assistant |
-|---------|------------------------------|--------------------|
+|:--------|:-----------------------------|:-------------------|
 | A01     | Monday 8:30–9:20             | Olivia Adamson     |
 | A02     | Monday 9:30–10:20            | Olivia Adamson     |
 | A03     | Tuesday 12:30–1:20           | James Lopez        |
@@ -213,7 +213,7 @@ No extra-credit opportunities are available for this course.
 Final grades will be assigned based on the following ranges:
 
 | Grade | Percent |
-|-------|---------|
+|:------|:--------|
 | A+    | 97–100% | 
 | A     | 93–96   |
 | A-    | 90–92   |
@@ -250,7 +250,7 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 **Unit One: Fundamentals of Scientific Clinical Psychology**
 
 | Date | Topic                                           |
-|------|-------------------------------------------------|
+|:-----|:------------------------------------------------|
 | 1/16 | MLK Day (no class!)                             |
 | 1/18 | Introduction & Contemporary Clinical Psychology |
 | 1/23 | Classification and Diagnosis                    |
@@ -270,7 +270,7 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 **Unit Two: Evidence-Based Psychological Assessment and Prediction**
 
 | Date | Topic                                          |
-|------|------------------------------------------------|
+|:-----|:-----------------------------------------------|
 | 3/1  | Overview of Assessment and Prediction          |
 | 3/6  | Overview of Assessment and Prediction          |
 | 3/8  | Interviewing, Observation, and Self-Monitoring |
@@ -288,7 +288,7 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 **Unit Three: Evidence-Based Psychological Intervention**
 
 | Date | Topic                                           |
-|------|-------------------------------------------------|
+|:-----|:------------------------------------------------|
 | 4/10 | Major Approaches to Intervention                |
 | 4/12 | Major Approaches to Intervention                |
 | 4/17 | Cognitive-Behavioral Therapy for Panic Disorder |
@@ -369,7 +369,7 @@ Some of the topics covered in class involve problems that can be quite common am
 If you feel that you or someone you know may be struggling with an academic, emotional, or psychological problem, the following organizations are available for assistance:
 
 | Service                                                                    | Contact Info                                                     |
-|----------------------------------------------------------------------------|------------------------------------------------------------------|
+|:---------------------------------------------------------------------------|:-----------------------------------------------------------------|
 | University of Iowa Academic Advising Center                                | 353-5700, https://advisingcenter.uiowa.edu                       |
 | University Counseling Services                                             | 335-7294, https://www.uiowa.edu/ucs                              |
 | Student Health Service - Mental Health                                     | 335-8394, https://studenthealth.uiowa.edu/services/psychiatry    |
