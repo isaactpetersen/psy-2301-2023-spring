@@ -4,6 +4,7 @@ Version: 1.0.0
 Imports:
   rmarkdown,
   blogdown,
-  remotes
+  remotes,
+  emo
 Remotes:
   hadley/emo
