@@ -132,8 +132,11 @@ This study method is more challenging than "Match".
 "Flashcards" evaluates your ability to recall the correct definition for each term.
 This study method is the most challenging.
 
-Second, <u>complete all example study questions</u> for each exam, which you can find in the "Example Study Questions" folder of the "Files" tab in ICON.
-The study questions posted on ICON are a great tool that will help you check for understanding of concepts.
+Second, <u>complete all study questions for each lecture and all practice exam questions for each exam</u>, which you can find in the "Study Questions" and "Practice Exam Questions" folders, respectively, of the "Files" tab in ICON.
+The study questions and practice exam questions are a great tool that will help you check for understanding of concepts.
+There are multiple-choice questions, for which all correct answers are provided.
+And there are open-ended questions, for which sample correct responses are provided.
+The latter type of question is particularly challenging, because research clearly demonstrates that trying to put class-related material into your own words is one of the best ways to learn new material and figure out what is confusing to you.
 
 Third, <u>ask yourself questions</u> about the material you have studied, answer them, and THEN check to see if you are correct.
 For example, after reviewing the first lecture, you might close your materials, then ask yourself "What are the four main measurement strategies in scientific clinical psychology, and how are they defined?" or "What are some key characteristics of scientific clinical psychology?" or "What are some key challenges facing scientific clinical psychology?"
