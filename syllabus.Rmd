@@ -249,28 +249,28 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 
 **Unit One: Fundamentals of Scientific Clinical Psychology**
 
-| Date | Topic                                           |
-|:-----|:------------------------------------------------|
-| 1/16 | MLK Day (no class!)                             |
-| 1/18 | Introduction & Contemporary Clinical Psychology |
-| 1/23 | Classification and Diagnosis                    |
-| 1/25 | Classification and Diagnosis                    |
-| 1/30 | Research Methods in Clinical Psychology         |
-| 2/1  | Research Methods in Clinical Psychology         |
-| 2/6  | Mood Disorders                                  |
-| 2/8  | Mood Disorders                                  |
-| 2/13 | Mood Disorders                                  |
-| 2/15 | Anxiety Disorders                               |
-| 2/20 | Anxiety Disorders                               |
-| 2/22 | Alcohol Use Disorders                           |
-| 2/27 | Examination #1 (no sections this week!)         |
+| Date | Topic                                                                     |
+|:-----|:--------------------------------------------------------------------------|
+| 1/16 | MLK Day (no class!)                                                       |
+| 1/18 | Introduction and Contemporary Clinical Psychology                         |
+| 1/23 | Classification and Diagnosis                                              |
+| 1/25 | Classification and Diagnosis                                              |
+| 1/30 | Research Methods in Clinical Psychology (content focus on sexual assault) |
+| 2/1  | Research Methods in Clinical Psychology (content focus on sexual assault) |
+| 2/6  | Mood Disorders                                                            |
+| 2/8  | Mood Disorders                                                            |
+| 2/13 | Mood Disorders and Suicide                                                |
+| 2/15 | Anxiety Disorders                                                         |
+| 2/20 | Anxiety Disorders                                                         |
+| 2/22 | Alcohol Use Disorders                                                     |
+| 2/27 | Examination #1 (no sections this week!)                                   |
 
 ## Unit Two {#unit2}
 
 **Unit Two: Evidence-Based Psychological Assessment and Prediction**
 
 | Date | Topic                                          |
-|:-----|:-----------------------------------------------|
+|:-----|:-------------------------------------------------|
 | 3/1  | Overview of Assessment and Prediction          |
 | 3/6  | Overview of Assessment and Prediction          |
 | 3/8  | Interviewing, Observation, and Self-Monitoring |
@@ -280,23 +280,23 @@ Therefore, sections are cancelled on the following dates:  Monday 2/27 – Frida
 | 3/22 | Intelligence Testing                           |
 | 3/27 | Intelligence Testing                           |
 | 3/29 | Personality Assessment                         |
-| 4/3  | Personality Assessment and Wrap Up             |
+| 4/3  | Personality Assessment; Wrap Up                |
 | 4/5  | Examination #2 (no sections this week!)        |
 
 ## Unit Three {#unit3}
 
 **Unit Three: Evidence-Based Psychological Intervention**
 
-| Date | Topic                                           |
-|:-----|:------------------------------------------------|
-| 4/10 | Major Approaches to Intervention                |
-| 4/12 | Major Approaches to Intervention                |
-| 4/17 | Cognitive-Behavioral Therapy for Panic Disorder |
-| 4/19 | Evaluation of Interventions                     |
-| 4/24 | Evaluation of Interventions                     |
-| 4/26 | Evidence-Based Treatments                       |
-| 5/1  | Dissemination of Evidence-Based Treatments      |
-| 5/3  | Intervention Controversies, Wrap-Up             |
+| Date | Topic                                                      |
+|:-----|:-----------------------------------------------------------|
+| 4/10 | Major Approaches to Intervention                           |
+| 4/12 | Major Approaches to Intervention                           |
+| 4/17 | Cognitive-Behavioral Therapy for Panic Disorder; Transdiagnostic Treatment for Emotional Disorders |
+| 4/19 | Evaluation of Interventions                                |
+| 4/24 | Evidence-Based Treatments; Influences on Treatment Outcome |
+| 4/26 | Dissemination of Evidence-Based Treatments                 |
+| 5/1  | Intervention Controversies                                 |
+| 5/3  | Wrap-Up                                                    |
 
 # Date and Time of the Final Exam {#finalExam}
 
