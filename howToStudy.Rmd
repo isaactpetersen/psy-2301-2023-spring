@@ -116,6 +116,8 @@ Imagine spending 15–20 minutes on each block within a session.
 Customize these study sessions to spend the most time on course material that feels the most challenging to you and less time on material that you feel more confident about.
 <u>As you can see, the lectures repeat across days and within single study sessions, and the study approaches draw from a variety of the effective study techniques we described in more detail in discussion section (and below!)</u>.
 
+![Example Study Schedule](images/studySchedule.jpg)
+
 ## Test Yourself {#testYourself}
 
 One of the **BEST** ways to learn the course material and do well on the exams is to <u>**test yourself**</u> on key concepts, their distinctions, and their implications/applications, rather than just re-reading or re-writing your notes over and over again.
