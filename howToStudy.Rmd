@@ -116,7 +116,7 @@ Imagine spending 15–20 minutes on each block within a session.
 Customize these study sessions to spend the most time on course material that feels the most challenging to you and less time on material that you feel more confident about.
 <u>As you can see, the lectures repeat across days and within single study sessions, and the study approaches draw from a variety of the effective study techniques we described in more detail in discussion section (and below!)</u>.
 
-## Test Yourself
+## Test Yourself {#testYourself}
 
 One of the **BEST** ways to learn the course material and do well on the exams is to <u>**test yourself**</u> on key concepts, their distinctions, and their implications/applications, rather than just re-reading or re-writing your notes over and over again.
 There are <u>three testing methods</u> that we highly recommend this semester.
@@ -135,7 +135,7 @@ This study method is the most challenging.
 Second, <u>complete all example study questions</u> for each exam, which you can find in the "Example Study Questions" folder of the "Files" tab in ICON.
 The study questions posted on ICON are a great tool that will help you check for understanding of concepts.
 
-Third, <u>ask yourself questions/<u> about the material you have studied, answer them, and THEN check to see if you are correct.
+Third, <u>ask yourself questions</u> about the material you have studied, answer them, and THEN check to see if you are correct.
 For example, after reviewing the first lecture, you might close your materials, then ask yourself "What are the four main measurement strategies in scientific clinical psychology, and how are they defined?" or "What are some key characteristics of scientific clinical psychology?" or "What are some key challenges facing scientific clinical psychology?"
 
 ## Put Material Into Your Own Words
@@ -166,15 +166,6 @@ As we noted above, cramming most of your studying into the day or two before the
 Active learning and testing methods are key to improving understanding and doing better on exams, even if they feel more challenging.
 Thus, we urge you to test yourself using Quizlet, complete the Study Questions, ask yourself questions, and try to put course material into your own words!
 
-# Ask Us Questions and Let Us Know When You're Confused
-
-Every one of us—including your TAs and Profs!—have questions and get confused about course material sometimes.
-When this happens to you (and it will!), remember that you have a lot of options: you can ask questions inside or outside of class, you can come to office hours with us, and you can email us.
-We know that talking with us can be challenging, but we encourage you to get outside your comfort zone and give it a try!
-`r emo::ji("smiling_face_with_smiling_eyes")`
-We all love working with students, and we all want you to succeed in our class.
-Ask for help when you need it!
-
 # Use Effective Test-Taking Strategies
 
 - Arrive early and relax in the minutes before the exam.
@@ -195,3 +186,12 @@ Physical activity can improve your ability to focus on challenging tasks and red
 - Evaluate your performance and the adequacy of your preparation after the exam (both before and after you know how you did!).
 What worked well, and what should you consider doing differently when preparing for and taking the next exam?
 Feel free to come discuss this with the TAs or Dr. Petersen!
+
+# Ask Us Questions and Let Us Know When You're Confused
+
+Every one of us—including your TAs and Profs!—have questions and get confused about course material sometimes.
+When this happens to you (and it will!), remember that you have a lot of options: you can ask questions inside or outside of class, you can come to office hours with us, and you can email us.
+We know that talking with us can be challenging, but we encourage you to get outside your comfort zone and give it a try!
+`r emo::ji("smiling_face_with_smiling_eyes")`
+We all love working with students, and we all want you to succeed in our class.
+Ask for help when you need it!
