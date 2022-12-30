@@ -17,6 +17,8 @@ Both types of effects involve three variables:
 1. A dependent/outcome variable, which will be labeled as `Y`.
 1. The mediator or interaction ("moderator") variable, which will be labeled as `M`.
 
+![Mediation Versus Moderation Mnemonic](images/mediationModerationMnemonic.png)
+
 # Mediation
 
 **Mediation** is a <u>causal chain of events</u>, where one variable (a mediator variable) at least partially <u>explains (or accounts for) the relationship between two other variables</u> (the predictor variable and the outcome variable).
