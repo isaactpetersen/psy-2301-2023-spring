@@ -121,14 +121,15 @@ Customize these study sessions to spend the most time on course material that fe
 One of the **BEST** ways to learn the course material and do well on the exams is to <u>**test yourself**</u> on key concepts, their distinctions, and their implications/applications, rather than just re-reading or re-writing your notes over and over again.
 There are <u>three testing methods</u> that we highly recommend this semester.
 
-First, use <u>Quizlet</u> to test your ability to provide definitions for key concepts.
-We have created Quizlet programs for each lecture, which you can access through the "Quizlet" folder of the "Files" tab in ICON.
-Note that you can use Quizlet yourself as a strategy for organizing your self-learning, too.
-We recommend that you use the Flashcards, Test, and Match study methods.
-Match evaluates your ability to recognize or identify the correct definition for each term.
-This is the easiest approach and a good starting place.
-Test also evaluates your ability to recognize or identify the correct definition for term but uses a variety of testing strategies.
-This study method is more challenging than Match. Flashcards evaluates your ability to recall the correct definition for each term.
+First, <u>[use Quizlet](quizlet.html)</u> to test your ability to provide definitions for key concepts.
+We have created Quizlet study sets for each lecture; for instructions how to access them, see [here](quizlet.html).
+Note that you can use Quizlet as a strategy for organizing your self-learning, too.
+We recommend that you use the "Flashcards", "Test", and "Match" study methods.
+"Match" evaluates your ability to recognize or identify the correct definition for each term.
+This is the easiest approach and is a good starting place.
+"Test" also evaluates your ability to recognize or identify the correct definition for a term but uses a variety of testing strategies.
+This study method is more challenging than "Match".
+"Flashcards" evaluates your ability to recall the correct definition for each term.
 This study method is the most challenging.
 
 Second, <u>complete all example study questions</u> for each exam, which you can find in the "Example Study Questions" folder of the "Files" tab in ICON.
