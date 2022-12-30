@@ -32,6 +32,8 @@ navbar:
         href: help.html
       - text: Mediation vs. Interaction
         href: mediationInteraction.html
+      - text: Using Quizlet to Learn Key Terms
+        href: quizlet.html
       - text: Opportunity to Join My Research Lab!
         href: devpsylab.html
     - text: "About"
