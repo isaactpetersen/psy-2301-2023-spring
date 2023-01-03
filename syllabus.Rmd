@@ -330,7 +330,8 @@ Students are responsible for all official correspondences sent to their UI email
 
 The University of Iowa strongly encourages students, faculty, and staff to be vaccinated against COVID-19.
 For information about COVID-19 vaccines on campus, please see https://coronavirus.uiowa.edu.
-If you are feeling sick, test positive for COVID-19, or may have been exposed to COVID-19, please refer to the campus guidance for the appropriate action (https://coronavirus.uiowa.edu/returning-campus/showing-symptoms). Regardless of your vaccination status, if you have symptoms consistent with COVID-19, please stay home and follow the appropriate isolation/quarantine guidance.
+If you are feeling sick, test positive for COVID-19, or may have been exposed to COVID-19, please refer to the campus guidance for the appropriate action (https://coronavirus.uiowa.edu/returning-campus/showing-symptoms).
+Regardless of your vaccination status, if you have symptoms consistent with COVID-19, please stay home and follow the appropriate isolation/quarantine guidance.
 For up-to-date information throughout the semester, please refer to https://coronavirus.uiowa.edu.
 
 # College of Liberal Arts and Sciences (CLAS) Course Policies {#clasPolicies}
