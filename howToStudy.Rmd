@@ -1,5 +1,6 @@
 ---
 title: "Learning and Succeeding in Introduction to Clinical Psychology"
+subtitle: "Adapted from a document by Teresa Treat and Caroline Boyd-Rogers"
 ---
 
 ```{r setup, include = FALSE}
@@ -25,7 +26,7 @@ We purposefully leave blanks in our Powerpoint slides that necessitate notetakin
 Taking notes will facilitate active learning AND be useful when preparing for exams.
 Don't try to copy down verbatim what the instructor or TA is saying.
 Rather, think about the new concepts they are introducing and find ways to summarize the new information in ways that will make sense to you later along the way.
-Review your notes carefully, and let your TA or Prof know if you have any questions or points of confusions!
+Review your notes carefully, and let your TA or Dr. Petersen know if you have any questions or points of confusions!
 - <u>Participate fully in active-learning opportunities in lectures and discussion sections</u>.
 We will try to provide opportunities in every class session to discuss ideas with your neighbors, to write about your perspectives, and to answer questions or solve problems on the Powerpoint slides.
 - <u>Ask questions</u> in class (we'll address as many as we can!).
