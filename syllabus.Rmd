@@ -242,7 +242,7 @@ The relative importance of the different contributors to your grade is as follow
 
 # Tentative Course Outline (exam dates fixed) {#outline}
 
-## Section Notes
+## Section Notes {#sectionNotes}
 
 - Sections will not be held during the week of examinations.
 Therefore, sections are cancelled on the following dates: Monday 2/27 – Friday 3/3 and Monday 4/3 – Friday 4/7.
@@ -321,7 +321,7 @@ Students can find policies on dropping and withdrawing [here](https://clas.uiowa
 I welcome feedback at any point during the class.
 If you have comments on the class or my teaching, please feel free to meet with me during office hours.
 
-## Student Complaints
+## Student Complaints {#complaints}
 
 Students with a complaint about a grade or a related matter should first discuss the situation with the instructor, and finally with the Director or Chair of the school, department, or program offering the course.
 Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/students/handbook/student-rights-responsibilities#rights) for support when the matter is not resolved at the previous level.
@@ -330,7 +330,7 @@ Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/stu
 
 Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
 
-# Health and Safety
+# Health and Safety {#health}
 
 The University of Iowa strongly encourages students, faculty, and staff to be vaccinated against COVID-19.
 For information about COVID-19 vaccines on campus, please see https://coronavirus.uiowa.edu.
