@@ -8,3 +8,50 @@ knitr::opts_chunk$set(echo = TRUE,
                       comment = "")
 ```
 
+
+# Join the Developmental Psychopathology Lab!
+
+[![Application Guidelines](images/applicationGuidelines.png)](https://devpsylab.github.io/LabWiki/prospective-undergradRA.html)
+[![Undergrad RA Expectations](images/labExpectations.png)](https://devpsylab.github.io/LabWiki/expectations-undergradRA.html)
+[![Lab Manual](images/labManual.png)](https://devpsylab.github.io/LabWiki/manual.html)
+
+<center>
+
+> Help study behavior problems and positive adjustment in 3- to 7-year-old kids to improve prevention and intervention strategies!
+
+</center>
+
+<br>
+
+## Why Apply to this Lab?
+
+### Gain Experience:
+
+* Collect, enter, and manage data 
+* Video code parent–child interactions
+* Administer tasks and standardized assessments
+* Analyze scientific articles and lead discussions
+* Prepare for post-undergrad life/education
+
+### Explore Opportunities:
+
+* Pursue independent projects
+* Specialize in working with data or running lab visits
+* Interact directly with families
+* Learn coding languages and/or video software
+
+<br>
+
+## Apply Now!
+
+<center>
+
+[![Application](images/apply.png)](https://uiowa.qualtrics.com/jfe/form/SV_6foZRkaDKfsPf49?Q_JFE=qdg)
+
+or
+
+Scan this QR Code!
+
+![Application QR Code](images/qr.jpg)
+
+</center>
