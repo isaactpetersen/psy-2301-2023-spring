@@ -117,7 +117,7 @@ This course is not designed to provide extensive information on the nature of ps
 
 # Required Textbook {#textbook}
 
-There isn't one.
+There isn't a required or recommended textbook.
 Instead, this course will include a combination of book chapters, peer-reviewed journal articles, and popular media articles.
 The source for all exam questions will be lecture, discussion, and all required readings for lectures and section, which will be provided on the course website on [ICON](https://icon.uiowa.edu).
 The cost of textbooks has become so high that I am not comfortable requiring one for this course when I can cover the material adequately in other ways.
