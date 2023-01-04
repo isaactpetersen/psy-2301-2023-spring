@@ -57,7 +57,7 @@ The day and time of the discussion section differ by section:
 | A06     | Wednesday 2:30–3:20   | Gonzalo Quinones   |
 | A07     | Wednesday 3:30–4:20   | Gonzalo Quinones   |
 | A08     | Thursday 9:30–10:20   | Olivia Adamson     |
-| A09     | Friday 10:30–11:20    | Olivia Adamson     |
+| A09     | Thursday 10:30–11:20  | Olivia Adamson     |
 | A10     | Friday 1:30–2:20      | Gonzalo Quinones   |
 
 # Graduate Teaching Assistants {#TAs}
