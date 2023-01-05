@@ -11,11 +11,12 @@ knitr::opts_chunk$set(echo = TRUE,
 
 # Join the Developmental Psychopathology Lab!
 
+<center>
+
 [![Application Guidelines](images/applicationGuidelines.png)](https://devpsylab.github.io/LabWiki/prospective-undergradRA.html)
 [![Undergrad RA Expectations](images/labExpectations.png)](https://devpsylab.github.io/LabWiki/expectations-undergradRA.html)
 [![Lab Manual](images/labManual.png)](https://devpsylab.github.io/LabWiki/manual.html)
 
-<center>
 
 <font size = 5>
 
