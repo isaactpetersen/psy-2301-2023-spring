@@ -9,17 +9,18 @@ knitr::opts_chunk$set(echo = TRUE,
 ```
 
 
+<br>
+<br>
+<br>
+
 
 <center>
 
-[![Application Guidelines](images/applicationGuidelines.png)](https://devpsylab.github.io/LabWiki/prospective-undergradRA.html)
-[![Undergrad RA Expectations](images/labExpectations.png)](https://devpsylab.github.io/LabWiki/expectations-undergradRA.html)
-[![Lab Manual](images/labManual.png)](https://devpsylab.github.io/LabWiki/manual.html)
-
-
 <font size = 5>
 
-Help study behavior problems and positive adjustment in 3- to 7-year-old kids to improve prevention and intervention strategies!
+
+
+Help study behavior problems and positive adjustment in 3- to 7-year-old kids to improve prevention and intervention strategies! Read more about our lab on our [lab webesite](https://developmental-psychopathology.lab.uiowa.edu/)!
 
 </font>
 
@@ -27,22 +28,25 @@ Help study behavior problems and positive adjustment in 3- to 7-year-old kids to
 
 <br>
 
-# Our Mission
+# What do we do?
+
+
+## Our Mission
 
 We are striving to improve the health and well-being of families and communities by conducting research to advance the understanding of human development.
 
-# Current Study
+## Current Study
 
 To accomplish our mission, we are are currently conducting the School Readiness Study.
 The School Readiness Study is a longitudinal study that follows children from 3–7 years of age to better understand how self-regulation and externalizing problems develop, from a bio-psycho-social perspective.
 In this project, we place special emphasis on the development of neural functioning, as measured by electroencephalography/event-related potentials (EEG/ERP), and how neural development influences the development of children’s self-regulation and externalizing problems. EEG is a method of measuring meaningful differences in children’s self-regulation through ERPs—EEG activity that occurs in response to stimuli—which may be a powerful way of reliably detecting patterns of brain activity that predict behavioral outcomes.
 
-# Why Apply to this Lab?
+# Why join us?
 
 ## Gain Experience:
 
-* Collect, enter, and manage data 
-* Video code parent–child interactions
+* Build skills working with children in a research setting
+* Oberve and analyze parent–child interactions
 * Administer tasks and standardized assessments
 * Analyze scientific articles and lead discussions
 * Prepare for post-undergrad life/education
@@ -50,15 +54,29 @@ In this project, we place special emphasis on the development of neural function
 ## Explore Opportunities:
 
 * Pursue independent projects
-* Specialize in working with data or running lab visits
-* Interact directly with families
+* Specialize in working with children and data management
 * Learn coding languages and/or video software
 
 <br>
 
+# What is expected of me? 
+
+Read more about what being an undergrad in our lab looks like here! 
+
+<center>
+
+[![Undergrad RA Expectations](images/labExpectations.png)](https://devpsylab.github.io/LabWiki/expectations-undergradRA.html)
+
+
+</center>
+
 # Apply Now!
 
 <center>
+
+[![Application Guidelines](images/applicationGuidelines.png)](https://devpsylab.github.io/LabWiki/prospective-undergradRA.html)
+
+<br>
 
 [![Application](images/apply.png)](https://uiowa.qualtrics.com/jfe/form/SV_6foZRkaDKfsPf49?Q_JFE=qdg)
 
@@ -69,3 +87,10 @@ Scan this QR Code!
 ![Application QR Code](images/qr.jpg)
 
 </center>
+
+<br>
+<br>
+<br>
+
+
+![Formal Logo](images/formalLogo.png)
