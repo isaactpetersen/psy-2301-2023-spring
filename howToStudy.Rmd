@@ -144,6 +144,10 @@ The latter type of question is particularly challenging, because research clearl
 Third, <u>ask yourself questions</u> about the material you have studied, answer them, and THEN check to see if you are correct.
 For example, after reviewing the first lecture, you might close your materials, then ask yourself "What are the four main measurement strategies in scientific clinical psychology, and how are they defined?" or "What are some key characteristics of scientific clinical psychology?" or "What are some key challenges facing scientific clinical psychology?"
 
+In a prior semester of the class, the students who received the highest grades tended to spend relatively more time using Study Questions to test themselves compared to using Quizlet or rereading their notes (see figure below).
+
+![Example Grades by Study Method](images/examGradesByStudyMethod.png)
+
 ## Put Material Into Your Own Words
 
 Another one of the **BEST** ways to learn the course material and do well on the exams is to <u>**put the course material into your own words**</u> or <u>**try to explain the material to someone/something else (including your ceiling fan)**</u>.
