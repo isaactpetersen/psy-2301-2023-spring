@@ -13,14 +13,18 @@ knitr::opts_chunk$set(echo = TRUE,
 <br>
 <br>
 
-
 <center>
+
+<img src = "images/formalLogo.png" width="800" height = "250">
+
+
+
 
 <font size = 5>
 
+<br>
 
-
-Help study behavior problems and positive adjustment in 3- to 7-year-old kids to improve prevention and intervention strategies! Read more about our lab on our [lab webesite](https://developmental-psychopathology.lab.uiowa.edu/)!
+Help study behavior problems and positive adjustment in 3- to 7-year-old kids to improve prevention and intervention strategies! Read more about us on our [lab website](https://developmental-psychopathology.lab.uiowa.edu/)!
 
 </font>
 
@@ -93,4 +97,3 @@ Scan this QR Code!
 <br>
 
 
-![Formal Logo](images/formalLogo.png)
