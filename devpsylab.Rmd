@@ -35,15 +35,14 @@ Help study behavior problems and positive adjustment in 3- to 7-year-old kids to
 
 # What do we do?
 
-
 ## Our Mission
 
 We are striving to improve the health and well-being of families and communities by conducting research to advance the understanding of human development.
 
 ## Current Study
 
-To accomplish our mission, we are are currently conducting the School Readiness Study.
-The School Readiness Study is a longitudinal study that follows children from 3–7 years of age to better understand how self-regulation and externalizing problems develop, from a bio-psycho-social perspective.
+To accomplish our mission, we are are currently conducting the [School Readiness Study](https://devpsylab.github.io/LabWiki/study-schoolReadinessStudy.html).
+The [School Readiness Study](https://devpsylab.github.io/LabWiki/study-schoolReadinessStudy.html) is a longitudinal study that follows children from 3–7 years of age to better understand how self-regulation and externalizing problems develop, from a bio-psycho-social perspective.
 In this project, we place special emphasis on the development of neural functioning, as measured by electroencephalography/event-related potentials (EEG/ERP), and how neural development influences the development of children’s self-regulation and externalizing problems. EEG is a method of measuring meaningful differences in children’s self-regulation through ERPs—EEG activity that occurs in response to stimuli—which may be a powerful way of reliably detecting patterns of brain activity that predict behavioral outcomes.
 
 # Why join us?
@@ -71,7 +70,6 @@ Read more about what being an undergrad in our lab looks like here!
 <center>
 
 [![Undergrad RA Expectations](images/labExpectations.png)](https://devpsylab.github.io/LabWiki/expectations-undergradRA.html)
-
 
 </center>
 
