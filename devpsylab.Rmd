@@ -15,10 +15,11 @@ knitr::opts_chunk$set(echo = TRUE,
 
 <center>
 
-<img src = "images/formalLogo.png" width="800" height = "250">
-
-
-
+<p style="text-align: center;">
+    <a href="https://developmental-psychopathology.lab.uiowa.edu" target="_blank">
+        <img alt="Developmental Psychopathology Lab" src="images/formalLogo.png" width="80%">
+    </a>
+</p>
 
 <font size = 5>
 
