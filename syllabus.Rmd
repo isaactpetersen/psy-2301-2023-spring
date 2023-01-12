@@ -198,7 +198,7 @@ There will be 3 exams.
 The exams will include multiple-choice questions.
 Each exam will emphasize information presented for the third of the class that precedes it.
 However, some integration of information across sections will be required for questions on the second and third exams.
-Exam questions can come from <u>any of the following sources: lectures, sections, or required readings </u>.
+Exam questions can come from <u>any of the following sources: lectures, sections, or required readings</u>.
 For suggested study tips for this class, see [here](howToStudy.html).
 
 ### Missing Exams {#missingExams}
@@ -346,6 +346,14 @@ See the section above on "[Missing Exams](#missingExams)" for the documentation 
 Students with mandatory religious obligations or UI authorized activities must discuss their absences with me or the TA as soon as possible.
 Religious obligations must be communicated within the first three weeks of classes.
 - [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
+
+## Other Expectations of Student Performance
+
+Students have the right to a distraction-free learning environment.
+You have the responsibility to help create such a classroom environment.
+Please treat other students in the class, the TAs, and the instructor with respect.
+Students are expected to help each other learn and to contribute overall to the learning environment of the course.
+Arriving prepared for class is part of this expectation.
 
 # University Policies {#UIowaPolicies}
 
