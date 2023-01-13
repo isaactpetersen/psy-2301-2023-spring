@@ -149,7 +149,8 @@ Please bear in mind that extensive or complex questions may not be addressable o
 ### Lecture Recordings {#recordings}
 
 My intention is to record lectures so that you may review them.
-Recorded lectures will be available on [ICON](https://icon.uiowa.edu) up to 48 hours after class (for Wednesday lectures) or until the Wednesday class period (for Monday lectures).
+Recorded lectures will be posted on the "UICapture" tab in [ICON](https://icon.uiowa.edu).
+Recordings will be available up to 48 hours after class (for Wednesday lectures) or until the Wednesday class period (for Monday lectures).
 However, <u>please do not count on recordings being available</u>, in case I accidentally forget to initiate the recording or there is a technical malfunction.
 
 ## Discussion Section {#discussionSection}
