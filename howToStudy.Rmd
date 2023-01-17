@@ -146,7 +146,7 @@ For example, after reviewing the first lecture, you might close your materials, 
 
 In a prior semester of the class, the students who received the highest grades tended to spend relatively more time using Study Questions to test themselves compared to using Quizlet or rereading their notes (see figure below).
 
-![Example Grades by Study Method](images/examGradesByStudyMethod.png)
+![Grades by Study Method in Prior Semester](images/examGradesByStudyMethod.png)
 
 ## Put Material Into Your Own Words
 
