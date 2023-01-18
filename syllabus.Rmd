@@ -374,7 +374,7 @@ Arriving prepared for class is part of this expectation.
 
 We have a centralized location to keep track of requests, forms, etc., so we can make sure we meet your needs.
 Please submit course requests here: https://uiowa.qualtrics.com/jfe/form/SV_1HUyg6ZaR4CcjWu.
-If you have accessibility accommodations from Student Disability Services (SDS), please submit your SDS accommodations letters at the above link.
+If you have accessibility accommodations from Student Disability Services (SDS), please submit your SDS accommodations letters at this link.
 
 # Resources for Help {#resources}
 
