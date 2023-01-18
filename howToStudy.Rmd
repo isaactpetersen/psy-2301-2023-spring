@@ -71,11 +71,13 @@ Although memorizing some facts will be helpful in this class, we really want you
 Thus, many test questions will require that you both know the facts and understand more abstract concepts.
 To succeed in this class, it is important that you think deeply about and learn to apply the knowledge from lecture and section, rather than simply memorizing it.
 You will do best on exams if you go beyond memorizing and critically think about the ideas we present in lecture and discussion sections.
-In addition to understanding the concepts, you should understand why the concepts are important and how to apply them.
+In addition to understanding the concepts and technical terms we have discussed, you should understand why they are important and how to apply them.
 Compare concepts discussed in class and think about how they are similar or different.
 Apply concepts to real world scenarios and think through the examples presented in class.
 Put the concepts into your own words and try to teach them to someone else.
 This helps you figure out what you do and don't understand, which puts you in a better position to ask specific questions after class or in office hours.
+
+Regarding the types of questions you may be asked on the exam, you do *not* need to memorize dates, names, or exact numbers, unless the date/name/number was stressed in class or section, but you will be expected to know general trends that we emphasized.
 
 # Use Effective Study Strategies
 
