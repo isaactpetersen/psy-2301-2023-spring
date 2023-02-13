@@ -7,4 +7,5 @@ Imports:
   remotes,
   emo
 Remotes:
-  hadley/emo
+  hadley/emo,
+  DevPsyLab/petersenlab
