@@ -5,7 +5,8 @@ Imports:
   rmarkdown,
   blogdown,
   remotes,
-  emo
+  emo,
+  petersenlab
 Remotes:
   hadley/emo,
   DevPsyLab/petersenlab
