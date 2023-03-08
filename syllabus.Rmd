@@ -140,7 +140,9 @@ However, I do encourage you to collaborate with classmates to *prepare* for exam
 
 We will meet twice weekly for lectures, at the time and location described [above](#lectureTime). 
 My powerpoint presentations for each lecture will be posted no later than noon the day before a lecture.
-I strongly recommend bringing these to class to take notes.
+<u>Please note:</u> powerpoint presentations are an outline of my points. 
+<u>It is your responsibility to take notes during class.</u>
+I strongly recommend bringing the powerpoint presentations to class to take notes.
 
 You should feel free to ask questions during lecture, although some questions may need to be deferred given the size of the class and the need to complete coverage of specific material during lecture.
 <u>Questions and further discussion of class material are always welcome</u> during office hours, during discussion section, and via e-mail.
@@ -158,7 +160,7 @@ If you miss something and are unable to watch the lecture recording, you can get
 ## Discussion Section {#discussionSection}
 
 In addition to lecture, you also have a weekly discussion section, except during exam weeks.
-The day and time of the weekly discussion section differs based on the section, see [above](#sections)).
+The day and time of the weekly discussion section differs based on the section, see [above](#sections).
 
 ## Attendance and Participation {#attendanceParticipation}
 
@@ -195,6 +197,11 @@ Quiz answers will be viewable at the end of the week (i.e., after the last discu
 Past experience has shown that in order to do well in this class, you should read the required material, participate actively in class, and go over your notes <u>each week</u>.
 There is too much material being covered in this class to try to study only by frantic preparation immediately before exams.
 Note that lecture and section will <u>not</u> cover all relevant material for the course; you will be expected to know the <u>required</u> readings for exams.
+
+## Workload {#workload}
+
+This is a 3 semester hour course.
+Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the textbook and articles, reviewing lecture material, and preparing for quizzes and exams.
 
 ## Examinations {#exams}
 
