@@ -283,7 +283,7 @@ Therefore, sections are cancelled on the following dates: Monday 2/27 – Friday
 **Unit Two: Evidence-Based Psychological Assessment and Prediction**
 
 | Date | Topic                                          |
-|:-----|:-------------------------------------------------|
+|:-----|:-----------------------------------------------|
 | 3/1  | Overview of Assessment and Prediction          |
 | 3/6  | Overview of Assessment and Prediction          |
 | 3/8  | Interviewing, Observation, and Self-Monitoring |
