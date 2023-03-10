@@ -201,7 +201,7 @@ Note that lecture and section will <u>not</u> cover all relevant material for th
 ## Workload {#workload}
 
 This is a 3 semester hour course.
-Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the textbook and articles, reviewing lecture material, and preparing for quizzes and exams.
+Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the articles, reviewing material from lecture and discussion section, and preparing for quizzes and exams.
 
 ## Examinations {#exams}
 
