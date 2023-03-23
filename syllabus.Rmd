@@ -318,6 +318,22 @@ The final examination date and time will be announced by the Registrar generally
 It is your responsibility to know the date, time, and place of the final exam.</u>
 According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams in one day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
+# Course Resources
+
+There are many course resources available to help you succeed in the class, including:
+
+- Powerpoint slides for lecture
+- Powerpoint slides for discussion section
+- [lecture recordings](#recordings)
+- study questions after each lecture (see the "Study Questions" folder under the "Files" tab on ICON)
+- Quizlet questions (see the "Quizlet" folder under the "Files" tab on ICON)
+- practice exam questions that we post leading up to the exam (these will be made available in the "Practice Exam Questions" folder under the "Files" tab on ICON)
+- review your quizzes and the answers
+- our guide on [how to study for the class](howToStudy.html)
+- TA office hours
+- instructor office hours
+- [peer study groups](#requests)
+
 # Drop Deadline for this Course {#dropDeadline}
 
 You may drop an individual course before the deadline; after this deadline you will need collegiate approval.
@@ -383,12 +399,13 @@ Arriving prepared for class is part of this expectation.
 # Course Requests {#requests}
 
 We have a centralized location to keep track of requests, forms, etc., so we can make sure we meet your needs.
-Please submit course requests here: https://uiowa.qualtrics.com/jfe/form/SV_1HUyg6ZaR4CcjWu.
+Course requests include, for instance, requests to join a peer study group, setting up a time to review your exam, requesting accommodations, etc.
+Please submit course requests (e.g., to join a peer study group) here: https://uiowa.qualtrics.com/jfe/form/SV_1HUyg6ZaR4CcjWu.
 If you have accessibility accommodations from Student Disability Services (SDS), please submit your SDS accommodations letters at this link.
 
 # Resources for Help {#resources}
 
-- Drop-in study groups and one-on-one tutoring: Undergraduate TA office hours
+- Drop-in study groups and one-on-one tutoring: office hours with TA or instructor
 - Formal tutoring: Tutor Iowa: https://tutor.uiowa.edu
 - Academic accommodations: https://sds.studentlife.uiowa.edu
 - Student care and assistance: https://basicneeds.uiowa.edu/resources/student-care-and-assistance
