@@ -139,7 +139,7 @@ However, I do encourage you to collaborate with classmates to *prepare* for exam
 ## Lecture {#lecture}
 
 We will meet twice weekly for lectures, at the time and location described [above](#lectureTime).
-My powerpoint presentations for each lecture will be posted no later than noon the day before a lecture.
+My powerpoint presentations for each lecture will be posted on [ICON](https://icon.uiowa.edu) no later than noon the day before a lecture (though I may continue to refine the slides up until the time of lecture).
 <u>Please note:</u> powerpoint presentations are an outline of my points. 
 <u>It is your responsibility to take notes during class.</u>
 I strongly recommend bringing the powerpoint presentations to class to take notes.
@@ -217,14 +217,15 @@ For suggested study tips for this class, see [here](howToStudy.html).
 Students are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances.
 Note: the format of the make-up exam may differ from the original exam.
 If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen or the TA must be contacted in advance whenever possible to schedule a make-up exam.
-At the time of the make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness at the time of an exam; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Professor Petersen.
-<u>In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</u>.
+In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Professor Petersen.
+<u>In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen or the TA</u>.
 
 # Grading {#grading}
 
 Final grades will be assigned at the end of semester on the basis of your total percentage of points earned on exams, quizzes, and section participation, as detailed below.
 Grades will be assigned on an absolute scale (criterion-referenced grading); course grades will not be curved.
 No extra-credit opportunities are available for this course.
+Please note: As a matter of fairness to all students, I assign grades based on performance and do not negotiate grades.
 Final grades will be assigned based on the following ranges:
 
 | Grade | Percent |
@@ -246,7 +247,7 @@ Final grades will be assigned based on the following ranges:
 I round up from .5 when determining final grades.
 For example, a course percent of 79.50 would receive a B-, whereas a course percent of 79.49 would receive a C+.
 
-The relative importance of the different contributors to your grade is as follows:
+The relative contribution of each component to your final grade is as follows:
 
  - 28%	Examination #1
  - 28%	Examination #2
@@ -329,9 +330,9 @@ There are many course resources available to help you succeed in the class, incl
 - Powerpoint slides for discussion section
 - getting and reviewing missed notes from a peer
 - [lecture recordings](#recordings)
-- study questions after each lecture (see the "Study Questions" folder under the "Files" tab on ICON)
+- study questions after each lecture (see the "Study Questions" folder under the "Files" tab on [ICON](https://icon.uiowa.edu))
 - Quizlet questions (see the "Quizlet" folder under the "Files" tab on ICON)
-- practice exam questions that we post leading up to the exam (these will be made available in the "Practice Exam Questions" folder under the "Files" tab on ICON)
+- practice exam questions that we post leading up to the exam (these will be made available in the "Practice Exam Questions" folder under the "Files" tab on [ICON](https://icon.uiowa.edu))
 - review your quizzes and the answers
 - our guide on [how to study for the class](howToStudy.html)
 - TA office hours
@@ -374,7 +375,7 @@ For up-to-date information throughout the semester, please refer to https://coro
 - [Attendance and Absences](https://clas.uiowa.edu/faculty/student-attendance-and-absences)\
 University regulations require that students be allowed to make up examinations which have been missed due to illness or other unavoidable circumstances.
 See the section above on "[Missing Exams](#missingExams)" for the documentation necessary for an absence to be excused and to be eligible to take a make-up exam.
-Students with mandatory religious obligations or UI authorized activities must discuss their absences with me or the TA as soon as possible.
+Students with mandatory religious obligations or UI authorized activities must discuss their absences with the instructor or TA as soon as possible.
 Religious obligations must be communicated within the first three weeks of classes.
 - [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
 
@@ -435,4 +436,4 @@ If you feel that you or someone you know may be struggling with an academic, emo
 # Disclaimer {#disclaimer}
 
 This syllabus is subject to change.
-Any changes will be discussed in class, via email, and/or on ICON.
+Any changes will be discussed in class, via email, and/or on [ICON](https://icon.uiowa.edu).
