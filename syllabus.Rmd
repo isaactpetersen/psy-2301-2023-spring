@@ -379,7 +379,7 @@ Students with mandatory religious obligations or UI authorized activities must d
 Religious obligations must be communicated within the first three weeks of classes.
 - [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
 
-## Other Expectations of Student Performance
+## Other Expectations of Student Performance {#otherExpectations}
 
 Students have the right to a distraction-free learning environment.
 You have the responsibility to help create such a classroom environment.
