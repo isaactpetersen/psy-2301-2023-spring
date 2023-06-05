@@ -50,11 +50,21 @@ An **interaction** (sometimes called "moderation"), on the other hand, occurs wh
 That is, the effect of the predictor variable on the outcome variable differs at different levels of the moderator variable.
 In these cases, `X` and `M` <u>work together</u> to have an effect on `Y`; here `X` <u>does not have a direct effect</u> on `M`.
 Interaction answers the question of, "<u>**For whom** does `X` influence `Y`?</u>"
-If `X` influences `Y` more strongly for some people or in some circumstances, we would say that there is an interaction such that the <u>effect of `X` on `Y` depends on `M`</u>.
+If `X` influences `Y` more strongly for some people or in some circumstances, we would say that there is an interaction such that the <u>effect of `X` on `Y` depends on `M`</u>, as depicted below:
+
+![Moderation](images/moderation.png)
+
+For example, if the effect of time passing on words recalled differs for those with and without an Alzheimer's diagnosis, the interaction could be depicted below:
+
+![Moderation](images/moderationExample.png)
+
+## Types of Interactions
 
 There are two types of interaction effects: cross-over interactions and fan-shaped interactions.
 Graphically, both types of interaction effects can be identified by the appearance of <u>non-parallel lines</u>.
 However, the way these lines diverge from one another are what define whether it is a cross-over or fan-shaped interaction.
+
+### Cross-Over Interaction
 
 A **cross-over interaction** occurs when individuals at different levels of `M` start at different points on `Y`, and when interacting with `X` the effects on `Y` go in different directions; when looking at a graph of the effects, you can see the lines "cross-over."
 A visual representation of this kind of interaction can be displayed in a line graph with two groups:
@@ -63,6 +73,8 @@ A visual representation of this kind of interaction can be displayed in a line g
 
 Where the predictor/independent variable `X` is on the x-axis, the outcome/dependent variable `Y` is on the y-axis, and the different levels/groups of the moderator variable `M` are represented by the different colored lines in the graph (i.e., the z-axis).
 An interaction can be identified visually by <u>non-parallel lines</u> at different levels of the moderator.
+
+### Fan-Shaped Interaction
 
 **Fan-shaped interactions** occur when individuals at different levels of `M` either start or end near each other on `Y`, but appear to diverge at different levels of `X`.
 For example: there may be an interaction between the presence of Alzheimer's disease and time when trying to predict an individual's verbal memory.
